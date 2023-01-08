@@ -283,7 +283,7 @@ body {
 	background-clip: padding-box;
 	border-bottom: none;
 	line-height: 1.6em;
-	margin: 70pt 30pt -20pt;
+	margin: 70pt 30pt 0;
 	padding: 30pt 40pt;
 	background-color: #ffffff;
 	font-size: 11pt;
@@ -291,7 +291,7 @@ body {
 
 @media screen and (min-width: 800pt) {
 	body {
-		margin: 70pt auto -20pt;
+		margin: 70pt auto 0;
 		width: 700pt;
 	}
 }
@@ -303,6 +303,26 @@ h1 {
 	line-height: 1.25;
 	overflow-wrap: break-word;
 	word-break: break-word;
+}
+
+h2 {
+	border-bottom: 1px solid #cecece;
+	font-size: 16pt;
+	font-weight: 500;
+	overflow: hidden;
+	padding: 4pt 0;
+}
+
+h3 {
+	font-size: 14pt;
+	font-weight: 500;
+	margin: 18pt 0 5pt;
+}
+
+h4 {
+	font-size: 14pt;
+	font-weight: 500;
+	margin: 14pt 0 5px;
 }
 
 p {
@@ -324,6 +344,12 @@ a:active,
 a:focus,
 a:hover {
 	text-decoration: underline;
+}
+
+a[id^=cite-ref] {
+	font-size: 7pt;
+	line-height: 0;
+	vertical-align: super;
 }
 
 img {
