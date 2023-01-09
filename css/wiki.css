@@ -1,7 +1,7 @@
-@import url('_fonts.css');
+@import url('/css/fonts.css');
 
 html {
-	background: url('img/bg.jpg') fixed;
+	background: url('/img/bg.jpg') fixed;
 }
 
 html::after {
