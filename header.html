@@ -2,27 +2,38 @@
 	<style type="text/css">
 		@import url('css/fonts.css');
 
+		body {
+			margin: 13pt 30pt 0;
+			grid-auto-columns: 95pt auto;
+			display: grid;
+		}
+
 		h1 {
-			padding: 5pt 0;
+			padding: 3pt 0;
+			font-weight: 700;
 			font-size: 18pt;
-			height: auto;
+			height: 0;
 			grid-column: 2;
 		}
 
-		body {
-			margin: 13pt 30pt 0;
-			grid-auto-columns: 100pt auto;
-			display: grid;
-			gap: 0;
+		h1~a {
+			grid-column: 2;
+			grid-row: 2;
+			font-variant-caps: all-petite-caps;
 		}
 
-		img.icon {
+		.icon {
+			grid-row: 1/13;
+		}
+
+		.icon>video {
 			height: 60pt;
 		}
 	</style>
 </head>
 
 <body>
-	<a href="index.html" target="_top"><img class="icon" src="img/flag-icon.png" /></a>
+	<a href="index.html" class="icon" target="_top"><video autoplay muted loop src="img/video-white.webm"></video></a>
 	<h1>Vecistani Great Communal People's Republic</h1>
+	<a>Your spectacular leader's exploits</a>
 </body>

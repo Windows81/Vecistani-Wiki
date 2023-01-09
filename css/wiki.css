@@ -1,18 +1,10 @@
 @import url('fonts.css');
 
 html {
-	background: url('/img/bg.jpg') fixed;
-}
-
-html::after {
-	content: '';
-	position: fixed;
-	left: 0;
-	top: 0;
-	width: 100%;
-	height: 100%;
-	background: linear-gradient(#ffffff00, #ffffff);
-	z-index: -1;
+	background:
+		linear-gradient(#ffffff00, #eeeeee) fixed,
+		/*linear-gradient(69deg, #fb0102 0%, 5%, #861e1e 15%, #066206 30%, #fecc2b 100%) fixed;*/
+		linear-gradient(69deg, #fb0102 17%, #066206 calc(17% + 1pt), #066206 calc(59% - 1pt), #fecc2b 59%) fixed;
 }
 
 iframe {
