@@ -1,0 +1,149 @@
+@import url('_fonts.css');
+
+html {
+	background: url('img/bg.jpg') fixed;
+}
+
+html::after {
+	content: '';
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(#ffffff00, #ffffff);
+	z-index: -1;
+}
+
+iframe {
+	width: 100%;
+	height: 85pt;
+}
+
+body {
+	border-radius: 20pt 20pt 0 0;
+	border: 4pt solid #ffffff80;
+	background-clip: padding-box;
+	border-bottom: none;
+	line-height: 1.6em;
+	margin: 70pt 30pt 0;
+	padding: 0 0 30pt;
+	background-color: #ffffff;
+	font-size: 10.5pt;
+}
+
+@media screen and (min-width: 800pt) {
+	body {
+		margin: 70pt auto 0;
+		width: 700pt;
+	}
+}
+
+h1 {
+	margin: 0 40pt 10pt;
+	font-size: 27pt;
+	font-weight: 300;
+	letter-spacing: .25pt;
+	line-height: 1.25;
+	overflow-wrap: break-word;
+	word-break: break-word;
+}
+
+h2 {
+	margin: 0 40pt 8pt;
+	border-bottom: 1px solid #cecece;
+	font-size: 16pt;
+	font-weight: 500;
+	overflow: hidden;
+	padding: 4pt 0;
+}
+
+h3 {
+	font-size: 14pt;
+	font-weight: 500;
+	margin: 18pt 40pt 7pt;
+}
+
+h4 {
+	font-size: 14pt;
+	font-weight: 500;
+	margin: 14pt 40pt 7pt;
+}
+
+p {
+	margin: 0 40pt;
+	font-weight: 400;
+	line-height: 1.75;
+	margin: 0 40pt 18pt;
+	overflow-wrap: break-word;
+}
+
+ol {
+	margin: 0 40pt;
+}
+
+a {
+	color: #0078d7;
+}
+
+a:visited {
+	color: #293e50;
+}
+
+a:active,
+a:focus,
+a:hover {
+	text-decoration: underline;
+}
+
+a[id^=cite-ref] {
+	font-size: 7pt;
+	line-height: 0;
+	vertical-align: super;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+iframe {
+	border: none;
+}
+
+/*#region Table*/
+table {
+	margin: auto;
+	background: none;
+	border: 1px solid #cecece;
+	border-collapse: collapse;
+	border-radius: 2pt;
+	border-spacing: 0 0;
+	font-size: inherit;
+	white-space: inherit;
+	line-height: inherit;
+	font-weight: inherit;
+}
+
+table>caption {
+	border: solid #cecece;
+	border-width: 1pt 1pt 0;
+	font-size: 12pt;
+	font-weight: 500;
+	line-height: 1.75;
+	padding: 6pt 9pt;
+	text-align: left;
+}
+
+table tr th,
+table tr td {
+	border: 1px solid #cecece;
+	vertical-align: middle;
+	padding: 8pt;
+}
+
+table tr th {
+	background-color: #f2f2f2;
+}
+
+/*#endregion*/
