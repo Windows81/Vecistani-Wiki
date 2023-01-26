@@ -31,7 +31,7 @@ body {
 	}
 }
 
-h1 {
+body>h1 {
 	margin: 0 40pt 10pt;
 	font-size: 27pt;
 	font-weight: 300;
@@ -41,7 +41,7 @@ h1 {
 	word-break: break-word;
 }
 
-h2 {
+body>h2 {
 	margin: 0 40pt 8pt;
 	border-bottom: 1px solid #cecece;
 	font-size: 16pt;
@@ -50,24 +50,25 @@ h2 {
 	padding: 4pt 0;
 }
 
-h3 {
+body>h3 {
 	font-size: 14pt;
 	font-weight: 500;
 	margin: 18pt 40pt 7pt;
 }
 
-h4 {
+body>h4 {
 	font-size: 14pt;
 	font-weight: 500;
 	margin: 14pt 40pt 7pt;
 }
 
-p {
+body>p {
 	margin: 0 40pt;
 	font-weight: 400;
 	line-height: 1.75;
 	margin: 0 40pt 18pt;
 	overflow-wrap: break-word;
+	text-align: justify;
 }
 
 ol {
@@ -102,6 +103,36 @@ img {
 iframe {
 	border: none;
 }
+
+/*#region Table*/
+aside {
+	display: block;
+	float: right;
+	width: 127.1pt;
+	margin: 10pt 10pt 10pt 20pt;
+}
+
+aside>h1 {
+	background: linear-gradient(#eeeeee, #dddddd);
+	margin: 0 0 10pt;
+	text-align: center;
+	font-style: italic;
+	font-weight: 100;
+	font-size: 16pt;
+	line-height: 1;
+	padding: 10pt;
+}
+
+aside>img+a[id^=cite-ref] {
+	display: block;
+	margin: 0 3pt;
+	text-align: right;
+	font-weight: 600;
+	font-size: 10pt;
+	margin-top: 7pt;
+}
+
+/*#endregion*/
 
 /*#region Table*/
 table {
