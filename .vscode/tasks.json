@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build website",
+			"type": "process",
+			"command": "py",
+			"args": [
+				"_build.py"
+			],
+			"group": "build",
+			"presentation": {
+				"reveal": "silent",
+				"panel": "new",
+				"close": true
+			}
+		}
+	]
+}

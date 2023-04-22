@@ -255,6 +255,7 @@
 }
 
 body {
+	font-variant-numeric: tabular-nums;
 	font-family:
 		rubik,
 		helvetica,
