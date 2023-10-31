@@ -216,7 +216,8 @@ Yorba Linda, USA
 
 # `2023-07-26:` Lyrics for Avionlix Chronicle
 
-"harrisonj.scl", 576 Hz
+| Tuning: "harrisonj.scl", root = 576 Hz
+--
 
 Respected Leader VisualPlugin
 
@@ -340,7 +341,10 @@ _I used ChatGPT myself to write the verses, but modifications were made._
 
 _Thanks to LLMs, I can now get a song with thirteen verses written out in no time!_
 
-[_"indian_c.scl"_](https://github.com/AJMansfield/polySynth/blob/master/scl/indian_c.scl) _(root = 400 Hz)_ _is what I used, by the way._
+| ["indian_c.scl"](https://github.com/AJMansfield/polySynth/blob/master/scl/indian_c.scl), root = 400 Hz, is what I used, by the way.
+--
+
+---
 
 **Verse 01**
 
@@ -582,7 +586,7 @@ We'll restore our gameplay's glory,
 
 To script a new and better story!
 
-# _TBD:_ Backròóms Mèéting (not in production yet)
+# `TBD:` Backròóms Mèéting (not in production yet)
 
 Respected Leader VisualPlugin sends a probe with a camera to the Backrooms which will be connected remotely. The probe is equipped with an AI-powered speaker which employs machine learning to best translate the messages of your dear Leader into a manifest form which the Backrooms could natively understand. Those fruitful discussions are conducted via Zoom and. The sentience of the Backrooms agrees to accede Vecistani artificial intelligence to broadcast its distinguished lobby level, the distinguishability of which engenders the most renowned images of liminal aesthetic.
 
@@ -592,13 +596,12 @@ Our principal premise is to employ the Backrooms into a habitable space for a ro
 
 In the early days of the 4th year of our Merciful Era, we invented a novel means to create portals to and from Earth. Despite the high energy consumption required to allow for foreign implementations, our Respected Leader VisualPlugin cleverly outlined and implemented a parallel-process scheme to draw power from the metaverse's infinite reserves and exploit Earth's limited physical constitution to summon portals therein with perfect accuracy. These tools specially equip us to communicate to the characteristically enigmatic sentience of the Backrooms in an exceedingly direct and clear manner. Indeed, your well-platformed chairplugin is the sole proprietor of technology to bridge disparate cosmoses.
 
-# \_2023-03-26:\_Lyrics for[Bloxxx](https://www.youtube.com/watch?v=DMtOlxH7JQo)
+# `2023-03-26:` Lyrics for [Bloxxx](https://www.youtube.com/watch?v=DMtOlxH7JQo)
 
-[https://www.linkedin.com/posts/jordonez_chatgpt-rapsong-roblox-activity-7036208130795479040-7Gg0](https://www.linkedin.com/posts/jordonez_chatgpt-rapsong-roblox-activity-7036208130795479040-7Gg0?utm_source=share&utm_medium=member_desktop)
+Lyrics were generated and then manually modified from [this LinkedIn post](https://www.linkedin.com/posts/jordonez_chatgpt-rapsong-roblox-activity-7036208130795479040-7Gg0?utm_source=share&utm_medium=member_desktop).
 
-[https://github.com/AJMansfield/polySynth/blob/master/scl/yasser_ji.scl](https://github.com/AJMansfield/polySynth/blob/master/scl/yasser_ji.scl)
-
-(root = 512 Hz)
+| Tuning: ["yasser_ji.scl"](https://github.com/AJMansfield/polySynth/blob/master/scl/yasser_ji.scl), root = 512 Hz
+--
 
 Rōblox, Rōblox, it's the place to be.
 
@@ -666,9 +669,9 @@ Let's play together, we'll get it done.
 
 # `2022-12-01:` Lyrics for [Great Jubilèé](https://soundcloud.com/shokhi-chumoghiqael-9/the-great-jubilee)
 
-[https://github.com/AJMansfield/polySynth/blob/master/scl/hjelmboogie.scl](https://github.com/AJMansfield/polySynth/blob/master/scl/hjelmboogie.scl)
 
-(root = 576 Hz)
+| Tuning: "[hjelmboogie.scl](https://github.com/AJMansfield/polySynth/blob/master/scl/hjelmboogie.scl)", root = 576 Hz
+--
 
 Celebrate with me
 
@@ -810,23 +813,23 @@ _A good community organiser is also one who imparts their knowledge of the field
 
 _I designed the Kubla Khan with as few artificial intrusions as possible. This meant withdrawing from implementing invisible walls and on-screen GUIs. Anything that breaks the immersion of being in a hotel resort is accounted for in my design plan. It is my hope to share not only my high-level modes of thought more extensively with a local community, but also to show practical tips that can best be relayed through doing the work itself. Having had the opportunity to network with other event organisers at this year's Rōblox Developers Conference, I extend warm delights to cooperate on behalf of the Event Organiser team!_
 
-_ **Why are you interested in hosting Roblox events?** _
+**Why are you interested in hosting Roblox events?**
 
 _I've been on Roblox for almost fourteen years and have never met any active Roblox developers outside of a few Maker Faires and RDC 2022. I've preferred meeting people live over the internet for about as long as I can remember. I live in a major suburban hub with millions of people. I applied as an event organiser previously, but wanted to reaffirm my interest in connecting local people over the shared interest that is Roblox development._
 
-_ **What can you tell us about the developer community in your local region?** _
+**What can you tell us about the developer community in your local region?**
 
 _According to Roblox's own documentation, over 2,700,000 developers and creators earn robux from their work on the platform. I'm doing my events in Orange County, California which has an estimated population of 3,200,000. I calculated cursorily there to be about 1,000 devs around where I live. Even if my estimate is off, I am exceedingly confident we can form a viable community._
 
-_ **If you have previous experience organising events, please describe.** _
+**If you have previous experience organising events, please describe.**
 
 _I sometimes volunteer at Islamic Institute of Orange County and have taken leadership roles at a few recent events._
 
-_ **Who referred you?** _
+**Who referred you?**
 
 _MikeTheRockstarr_
 
-_ **Panellist:** _
+**Panellist:**
 
 Blessed greetings. Our mutual attention is placed on the expansion of metaverse influence into the Earthly realm. We seek to introduce a growth plan that includes a multitude of avenues by which to bolster _in-person_ communication around the Rōblox metaverse. The excellent Nation of Vecistan, under the decisive and unique guidance of Respected Leader VisualPlugin, seeks to work with your illustrious Developer Relations team to make that a possibility.
 
@@ -834,29 +837,29 @@ Our prosperous Nation occupies substantial territory in the lands of Rōblox, Vy
 
 Our Rōblox province is secured as a chief exporter of gasoline and crude oil to motorists in the highly-developed North American and Western European economic spheres. We are also a thriving hub of tourism in the showcasing industry and comprise one of the most prolific music record labels in the metaverse.
 
-_ **VisualPlugin:** _
+**VisualPlugin:**
 
 The bulk of my schedule is centralised near the residence of my Earthly analogue, and includes a multitude of avenues by which to bolster in-person communication around the Rōblox metaverse. According to [Rōblox's own documentation](https://create.roblox.com/docs/production/monetization/economics), over 2,700,000 developers and creators earn robux from their work on the platform. My initiatives target a major suburban hub in California with an estimated population of 3,200,000. Extrapolating the global population proportion of developers into that area, my Office is exceedingly confident of the abundance of Rōblox developers that is tantamount to the viability of our plan.
 
 My most significant work on the Rōblox platform, the Kubla Khan Hotel and Resort, currently has a small community of its own. It is a showcase based on architectural plans from the 1970s for a hotel in Las Vegas that was never built. Though it is also in my interest to employ your assets into transforming the resort into a mainstay for the Rōblox community, our main priority remains to connect local people through a common interest.
 
-_ **Panellist:** _
+**Panellist:**
 
 A good community organiser is also one who imparts their knowledge of the field onto other practitioners. Our planned course of action is to focus on teaching about design philosophy and using good UX to accomplish these goals. Most of VisualPlugin's personal endeavours were founded with each their own set of principles.
 
-_ **VisualPlugin:** _
+**VisualPlugin:**
 
 I designed the Kubla Khan with as few artificial intrusions as possible. This meant withdrawing from implementing invisible walls and on-screen GUIs. Anything that breaks the immersion of being in a hotel resort is accounted for in my design plan. It is my hope to share not only my high-level modes of thought more extensively with a local community, but also to show practical tips that can best be relayed through doing the work itself. Having had the opportunity to network with other event organisers at this year's Rōblox Developers Conference, I extend warm delights to cooperate on behalf of the Event Organiser team!
 
 # `2022-09-25:` [Is It the Innovation Awards Already!?](https://youtu.be/-2Y0gUmhE9c)
 
-_ **Announcer:** _
+**Announcer:**
 
 Indeed, the great achievements made by your persistent Leader yields the undiminished acclaim of his many works! The Rōblox metaverse is certainly thankful for the highly gratifying and diligently preserved experiences which he has invented in great adroitness. It is your perfect Leader who selects with such expressiveness and diverse vocabulary the most poignant language as a means to address his wise ideas with grandeur and authority. There is no doubt his wonderful presence beholds itself to the specialness of the occasion that surrounds this upcoming oration.
 
 _The scene fades to VisualPlugin flying in a car to the stage. The camera is focused on the car and cuts to scenes of the audience._
 
-_ **VisualPlugin:** _
+**VisualPlugin:**
 
 Blessed greetings. The ever-benignant presence of Supreme Respected Leader VisualPlugin beautifies the celebratory occasion of our present ceremony. Despite the shifted timing of this year's annual Rōblox-wide awards show, your immaculate Leader is nevertheless a persisting champion in our expansive Rōblox metaverse and beyond. The exploits performed by my Office to aid the Earthly Nations yield bountiful reward beyond the imagination of our brutish enemies. Indeed, the history-making success of our various international programmes elevates our Nation's status as a thriving hub of innovation.
 
@@ -870,13 +873,13 @@ _The scene fades out. We then cut to my RDC video with music playing._
 
 _Afterwards, we see some text cards and they say the following:_
 
-_ **Announcer:** _
+**Announcer:**
 
 The great efforts taken by Supreme Respected Leader VisualPlugin to elevate the highest echelons of Rōbloxian society are noteworthy and wise. Your proactive Leader is indeed extended a tacit invite to enjoin in the pre-eminent Rōblox Developers Conference. There is no doubt his ingenious ideas continue to elevate him and our dutiful Nation to its supreme status within the Rōblox metaverse. Supreme Respected Leader VisualPlugin continues to astound us all with his superior mastery of Rōbloxian nuance. It is his latest feats which, as shown, bring us all closer to his effectual dominance.
 
 _The awards sequence for Most Immersive Experience plays. Despite its exclusion from the list of nominees, Kubla Khan wins by a landslide. Applause ensues._
 
-_ **Announcer:** _
+**Announcer:**
 
 The Kubla Khan Hotel & Resort is a massive in-progress showcase with over thirty months in the making. With over 1,480 bookable rooms and suites, as well as other amenities prospective, it is in the mutual interest of the nation of Vecistan to provide to our highly honoured guests with tranquillity and service of the utmost quality. The unique, orientalist architecture of the Kubla Khan entices both those with a keen interest in the past and those seeking an escape from the present. Our masterly designed displays of opulence shall enhance the immersive atmosphere, as well as pay homage to the glorious exploits of our clever Leader, in emphasis of his choice symbolisms.
 
@@ -884,7 +887,7 @@ Through aiming our attention on designing our grandiose resort with human-sized 
 
 _The scene fades again to VisualPlugin on the stage. The camera sometimes cuts to scenes of the audience._
 
-_ **VisualPlugin:** _
+**VisualPlugin:**
 
 We savour the beauty radiant by the means through which we have achieved our position as a Nation of supreme regard. Indeed, my Kubla Khan is a splendid masterpiece worthy solely of dear reverence from our allies and due deference from our enemies. There is no doubt that the assiduity at which your venerated Leader assiduously conceives his opuses bolsters our aforementioned eminence. My selection of attendees to this breathtaking performance of Respected Leader VisualPlugin is a direct result of your emailed explicit invitation to the on-Earth assembly of this year's Rōblox Developers Conference in California. It shall be known that your swift attendance is enabled thanks to the exploits of your quick-witted leader, who operates a metaverse portal near the site so as to sustain the city's economy amid ever-depleting Earthly resources.
 
@@ -1256,7 +1259,7 @@ Now it's time to install Windows 11.
 
 _Lightning and thunder fill the scene again - albeit briefly._
 
-_ **Owing to initial difficulty in using Animaker, the following was never included in the actual video:** _
+**Owing to initial difficulty in using Animaker, the following was never included in the actual video:**
 
 _Caillou (in vibrato)_
 
