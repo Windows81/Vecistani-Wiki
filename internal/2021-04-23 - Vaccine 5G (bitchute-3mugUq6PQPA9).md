@@ -1,0 +1,16 @@
+# `2021-04-23:` [Vaccine 5G](https://www.bitchute.com/video/3mugUq6PQPA9/)
+
+_(preferable to record reading fast and only in one pass)_
+
+_(Vecistan is pronounced as Veggie-stan)_
+
+Respected Leader VisualPlugin unravels a state-of-the-art intramuscular pharmaceutical in an effort to promote the nation of Vecistan as a futuristic hub of great innovation. This vaccine shall introduce to our citizenry visceral transmissibility and interoperability of internet data at 5G speeds. Indeed, our technology is to the envy of all creation. Our Leader highly commends the nation of Vecistan for their willingness to be accordingly injected with their dosage. Termed as mRNA-1271 - in reverence to the auspicious number of our great Leader's intelligence, this medicament aims to add an extra layer of protection against a sweeping pandemic that annihilates millions globally. Indeed, our natural immune strength to harmful pathogens is endemic to the uniquely Vecistani strain of perseverance. Our unaffected economy allows us unfettered growth at the fortitude of Respected Leader VisualPlugin.
+
+To ensure all specified capacities of the vaccine are met, our Supreme Respected Leader VisualPlugin has formed a considerable alliance with Designated Genius Bill Gates in expediting its development. In a multifaceted approach, the partnership yielded exceptional results with the creation of mRNA-1271. Its development had auxiliarily yielded inventions that the nation of Vecisan will patent and ensuingly export with great profit for years to come. The conception of a novel microscopic microprocessor has been thoroughly tested, and is already in the process of manufacturing.
+
+One major advantage to this new design over previous, imported models is its ability to indefinitely remain within a liquid without losing efficacy. Having a volume of 50 μm³, the chip is proven to be very potent in its ability to bridge signals. The microprocessor will be employed in the transmission of 5G interoperability via intramuscular injection. Therein, exactly one chip will reside in the bloodstream and integrate itself with the brain's synapses to allow for 5G networking. Indeed, the cadre of Respected Leader VisualPlugin is acute and precocious.
+
+There have been mendacious claims from illegal secessionist parties that this medicament is pernicious to members in the Rōblox province, especially for those over 4000 days old. On the contrary, our great Leader is still wise and well; he is indeed a venerated recipient of mRNA-1271, aged many equally venerated years. The sole goals of these insurgents is surely to sow discord and dismantle our substantial union. By the writ of Respected Leader VisualPlugin, mRNA-1271 will be made imperative for the whole citizenry of Vecistan.
+
+Respected Leader VisualPlugin will cooperate in the mass-export of the mRNA-1271 vaccine to all corners of the globe. The gratuitous rollout of this pharmaceutical to the countless allied nations to Vecistan is contingent on a sweeping pandemic caused by a novel coronavirus. Unaffected thereby, the nation of Vecistan resolves to manufacture an effective, inoculative vaccine to amplify our influence not only to our allies, but also to the metaverse as a whole. His act of humanitarianism will surely be heralded for decades to come.
+

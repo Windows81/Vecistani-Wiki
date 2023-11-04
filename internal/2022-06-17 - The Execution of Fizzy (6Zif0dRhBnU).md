@@ -1,0 +1,12 @@
+# `2022-06-17:` [The "Execution" of Fizzy](https://www.youtube.com/watch?v=6Zif0dRhBnU)
+
+_VisualPlugin:_
+
+Blessed greetings! Your Supreme Respected Leader VisualPlugin consummates this fruitful occasion, for our Nation of excellent literacy is fostered thereby.
+
+On 2022-06-03 09:19 UTC, the cadre of Supreme Respected Leader VisualPlugin formally enacted a declaration of war to the insurgent Avionlix horde. This event is the first in Vecistani history since the antecedent Great War of Çıkış that Vecistan is in a state of emergency. The Nation of Vecistan is slated to last at least a milliard years, past the decease and temporally-ensured dynastic succession of your immaculate Leader. Your shallow allusions to historical figures do not deter the wiseness and battle-readiness of Respected Leader VisualPlugin.
+
+My decorated and diverse allyship more than suffices for the aid our Nation shall receive for this present war. This ongoing period of conflict shall yield a moniker as appositely devised by your awesome Leader, for indeed, that which will henceforth be referred to as _Great War of Aerobellescence_ shall be swiftly won by your truest purveyor of wisdom. Per the creative and novel thinking of your Respected Leader VisualPlugin, this brief but glorious moment of conflict may likewise be referred to by other, more reverent titles to be conjured in due time. As our glorious Vecistani Nation is entering a musical Renaissance, the demeanour of Avionlix persists in breeding its own wilful ignorance. Indeed, the blatant lack of intuition and high-level research skills of our Nation's assailants is no less than worthy of universal derision. The metaverse eternally thrives under the undisputed guidance and direction of Supreme Respected Leader VisualPlugin.
+
+Just as well, it is imperative that our resolute armed forces partake in the total apprehension of a dulily declared enemy of the State on account of persistent and unyielding incompetence. Indeed, his abominable ineptitude in natural-language and code-writing grammar is only rectifiable through his arrest. Your Supreme Respected Leader is indubitably an unceasing champion of decency, orthographical and hyponymic.
+
