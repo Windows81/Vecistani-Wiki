@@ -1,4 +1,4 @@
-# `2022-05-13:` [Lyrics for Griddlers Song](https://soundcloud.com/shooky-chuchu-moghikill-8/yappshoul) (Yappşoul)
+# [Lyrics for Griddlers Song](https://soundcloud.com/shooky-chuchu-moghikill-8/yappshoul) (Yappşoul)
 
 | Tuning: "[al-farabi_9](https://github.com/AJMansfield/polySynth/blob/master/scl/al-farabi_9.scl)", root = 400 Hz
 |-|

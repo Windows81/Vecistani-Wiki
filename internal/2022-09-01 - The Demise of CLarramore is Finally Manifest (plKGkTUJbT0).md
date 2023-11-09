@@ -1,4 +1,4 @@
-# `2022-09-01:` [The Demise of CLarramore is Finally Manifest!](https://www.youtube.com/watch?v=plKGkTUJbT0)
+# [The Demise of CLarramore is Finally Manifest!](https://www.youtube.com/watch?v=plKGkTUJbT0)
 
 _VisualPlugin:_
 
@@ -15,4 +15,3 @@ Indeed, it is your Supreme Respected Leader VisualPlugin who consummates this fr
 _Seventh Dimensional Dreamer:_
 
 To commemorate this groundbreaking victory, your Supreme Respected Leader formally declares the nationwide observation of two five-day periods for every year. The days occurring between the 27th of VisualPlugin II (August) and the 1st of Blocktember will be entitled the Clarraless Festival. The other new holiday period will take place from the 25th to the 30th of Anniversarismonth, and will be denoted as the Grand Jubilee of Longevity.
-

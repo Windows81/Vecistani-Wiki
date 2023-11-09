@@ -1,4 +1,4 @@
-# `2021-11-30:` [13th Anniversary](https://www.youtube.com/watch?v=CqPRRe9z7zM)
+# [13th Anniversary](https://www.youtube.com/watch?v=CqPRRe9z7zM)
 
 _\* VisualPlugin is sat at a desk with his arms crossed; scene fades in \*_
 
@@ -85,4 +85,3 @@ _\* applause; plays song; more applause \*_
 _VisualPlugin:_
 
 At 2 hours, 45 minutes, 11 seconds, Coordinated Universal Time, your venerable Respected Leader VisualPlugin shall commence the fourteenth year of his being, for a new chapter in the epic history of our glorious Nation shall do likewise. Ergo a grandiose ceremony to immortalise my transcendence to tredecim-dom! Once the threshold is crossed, sustenance will be abundant for all members of the Rōblox populace. Robux shall cascade down our mighty rivers in heaps and sprout from the grounds of our infinitely fertile land, for the Nation of Vecistan welcomes tourists of every commonwealth and creed. Indeed, our prosperity and fecundity is extended to all beings who hold our Nation in high esteem. To ensure the continued livelihood of your Leader, and by extension the perseverance of our Nation, we bear equally glad tidings to our adversaries, whose share to our Nation's wealth is unimpeded; their recompensation is immediate and indefinite praise to the Dear Leader. Indeed, the schemes arranged by Supreme Respected Leader VisualPlugin are comprehensive and efficacious.
-

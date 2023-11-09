@@ -1,4 +1,4 @@
-# `2021-08-24:` [Animaker Reveal](https://www.youtube.com/watch?v=eukkZ-5RRGk)
+# [Animaker Reveal](https://www.youtube.com/watch?v=eukkZ-5RRGk)
 
 _\* Applause as camera pans. \*_
 
@@ -129,4 +129,3 @@ _Time screen shows, saying 'an undisclosed number of picoseconds later…' After
 _Caillou_
 
 I give my eternal thanks to Supreme Respected Leader VisualPlugin for aiding me in my mission to streamline the Windows experience for all users, despite Microsoft's wishes to force new hardware purchases down our figurative throats. Now to install it!
-

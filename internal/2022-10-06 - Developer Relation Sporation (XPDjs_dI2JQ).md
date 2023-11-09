@@ -1,4 +1,4 @@
-# `2022-10-06:` [¿Developer Relation Sporation?](https://www.youtube.com/watch?v=XPDjs_dI2JQ)
+# [¿Developer Relation Sporation?](https://www.youtube.com/watch?v=XPDjs_dI2JQ)
 
 _According to Roblox's own documentation, over 2,700,000 developers and creators earn robux from their work on the platform. I'm doing my events in Orange County, California which has an estimated population of 3,200,000. I calculated cursorily there to be about 1,000 devs around where I live. Even if my estimate is off, I am exceedingly confident we can form a viable community._
 
@@ -45,4 +45,3 @@ A good community organiser is also one who imparts their knowledge of the field 
 **VisualPlugin:**
 
 I designed the Kubla Khan with as few artificial intrusions as possible. This meant withdrawing from implementing invisible walls and on-screen GUIs. Anything that breaks the immersion of being in a hotel resort is accounted for in my design plan. It is my hope to share not only my high-level modes of thought more extensively with a local community, but also to show practical tips that can best be relayed through doing the work itself. Having had the opportunity to network with other event organisers at this year's Rōblox Developers Conference, I extend warm delights to cooperate on behalf of the Event Organiser team!
-

@@ -1,4 +1,4 @@
-# `2022-06-02:` Lyrics for [Rèéo](http://soundcloud.com/shooky-chuchu-moghikill-8/reeo)
+# Lyrics for [Rèéo](http://soundcloud.com/shooky-chuchu-moghikill-8/reeo)
 
 | Tuning: "[syntonolydian](https://github.com/AJMansfield/polySynth/blob/master/scl/syntonolydian.scl)", root = 576 Hz
 |-|

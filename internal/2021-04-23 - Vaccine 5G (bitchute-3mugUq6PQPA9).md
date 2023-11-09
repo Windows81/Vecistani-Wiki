@@ -1,4 +1,4 @@
-# `2021-04-23:` [Vaccine 5G](https://www.bitchute.com/video/3mugUq6PQPA9/)
+# [Vaccine 5G](https://www.bitchute.com/video/3mugUq6PQPA9/)
 
 _(preferable to record reading fast and only in one pass)_
 
@@ -13,4 +13,3 @@ One major advantage to this new design over previous, imported models is its abi
 There have been mendacious claims from illegal secessionist parties that this medicament is pernicious to members in the Rōblox province, especially for those over 4000 days old. On the contrary, our great Leader is still wise and well; he is indeed a venerated recipient of mRNA-1271, aged many equally venerated years. The sole goals of these insurgents is surely to sow discord and dismantle our substantial union. By the writ of Respected Leader VisualPlugin, mRNA-1271 will be made imperative for the whole citizenry of Vecistan.
 
 Respected Leader VisualPlugin will cooperate in the mass-export of the mRNA-1271 vaccine to all corners of the globe. The gratuitous rollout of this pharmaceutical to the countless allied nations to Vecistan is contingent on a sweeping pandemic caused by a novel coronavirus. Unaffected thereby, the nation of Vecistan resolves to manufacture an effective, inoculative vaccine to amplify our influence not only to our allies, but also to the metaverse as a whole. His act of humanitarianism will surely be heralded for decades to come.
-

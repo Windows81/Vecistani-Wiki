@@ -1,4 +1,4 @@
-# `2023-07-26:` Lyrics for Avionlix Chronicle
+# Lyrics for Avionlix Chronicle
 
 | Tuning: "[harrisonj](https://github.com/AJMansfield/polySynth/blob/master/scl/harrisonj.scl)", root = 576 Hz
 |-|

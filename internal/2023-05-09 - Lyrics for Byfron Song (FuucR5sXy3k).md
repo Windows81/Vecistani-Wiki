@@ -1,4 +1,4 @@
-# `2023-05-09:` Lyrics for [Byfron Song](https://www.youtube.com/watch?v=FuucR5sXy3k)
+# Lyrics for [Byfron Song](https://www.youtube.com/watch?v=FuucR5sXy3k)
 
 _I used ChatGPT myself to write the verses, but modifications were made._
 

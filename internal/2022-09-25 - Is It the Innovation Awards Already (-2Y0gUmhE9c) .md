@@ -1,4 +1,4 @@
-# `2022-09-25:` [Is It the Innovation Awards Already!?](https://youtu.be/-2Y0gUmhE9c)
+# [Is It the Innovation Awards Already!?](https://youtu.be/-2Y0gUmhE9c)
 
 **Announcer:**
 
@@ -39,4 +39,3 @@ _The scene fades again to VisualPlugin on the stage. The camera sometimes cuts t
 We savour the beauty radiant by the means through which we have achieved our position as a Nation of supreme regard. Indeed, my Kubla Khan is a splendid masterpiece worthy solely of dear reverence from our allies and due deference from our enemies. There is no doubt that the assiduity at which your venerated Leader assiduously conceives his opuses bolsters our aforementioned eminence. My selection of attendees to this breathtaking performance of Respected Leader VisualPlugin is a direct result of your emailed explicit invitation to the on-Earth assembly of this year's Rōblox Developers Conference in California. It shall be known that your swift attendance is enabled thanks to the exploits of your quick-witted leader, who operates a metaverse portal near the site so as to sustain the city's economy amid ever-depleting Earthly resources.
 
 Our Nation's patented, groundbreaking metaverse gasoline formula has been utilised to fuel over 3 million cars' tanks, in San Francisco alone, since the portal's opening on the 17th of Vecistan II of this year. The unlimited physical potential of our virtual realm allows the vessels our fuels occupy to fine-tune the amount of carbon dioxide that is emitted to the atmosphere, as well as alter the chemical composition of the engines they inhabit. Our appeal to market demand is additionally met through advertising and voucher discount plans personalised to the individual. Indeed, on account of your Nation's comprehensive data caches on Earthly citizens, the systems of collection of nominative information we employ only continue to energise the economies of our Earthly and allied nations.
-

@@ -1,4 +1,4 @@
-# `2023-08-13:` Avionlix's Default Phrases
+# Avionlix's Default Phrases
 
 Indeed, Avionlix is a fickle and mercurial entity. His programming is faulty.
 
@@ -37,4 +37,3 @@ N/A
 ## 2023-08-18
 
 Clum-clum. Oh clum-clum. What have you done?
-
