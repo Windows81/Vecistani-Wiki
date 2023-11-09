@@ -1,4 +1,4 @@
-# Lyrics for [Bloxxx](https://www.youtube.com/watch?v=DMtOlxH7JQo)
+# Lyrics for [Bloxxx](https://archive.org/details/youtube-DMtOlxH7JQo)
 
 Lyrics were generated and then manually modified from [this LinkedIn post](https://www.linkedin.com/posts/jordonez_chatgpt-rapsong-roblox-activity-7036208130795479040-7Gg0?utm_source=share&utm_medium=member_desktop).
 

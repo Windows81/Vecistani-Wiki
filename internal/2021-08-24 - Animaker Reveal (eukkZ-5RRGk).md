@@ -1,4 +1,4 @@
-# [Animaker Reveal](https://www.youtube.com/watch?v=eukkZ-5RRGk)
+# [Animaker Reveal](https://archive.org/details/youtube-eukkZ-5RRGk)
 
 _\* Applause as camera pans. \*_
 
@@ -36,7 +36,7 @@ _VisualPlugin_
 
 Your Supreme Respected Leader presently consummates the procuration of the colonies that reside in the world of Ani-maker. In spite of geographical similarities with the Vyond province, we the nation of Vedgie-stan have profoundly renewed our faith in the computer animation industry - a trade that we greatly excel in. Indeed, those mutineers of fruitless depravity shall swiftly capitulate and become faithful subjects to our powerful state for the eternal duration of our thriving existence. It is the notoriety garnered by our Supreme Respected Leader VisualPlugin that elevates this present address as a matter of great import for both allied and hostile nations to the Vedgie-stani Great Communal People's Republic.
 
-_[https://www.youtube.com/watch?v=48UOcK-M3Og]_
+_[https://archive.org/details/youtube-48UOcK-M3Og]_
 
 VGCP? Oh my God!
 

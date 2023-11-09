@@ -1,4 +1,4 @@
-# [¿Developer Relation Sporation?](https://www.youtube.com/watch?v=XPDjs_dI2JQ)
+# [¿Developer Relation Sporation?](https://archive.org/details/youtube-XPDjs_dI2JQ)
 
 _According to Roblox's own documentation, over 2,700,000 developers and creators earn robux from their work on the platform. I'm doing my events in Orange County, California which has an estimated population of 3,200,000. I calculated cursorily there to be about 1,000 devs around where I live. Even if my estimate is off, I am exceedingly confident we can form a viable community._
 

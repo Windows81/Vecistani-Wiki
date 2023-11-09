@@ -1,4 +1,4 @@
-# [The "Execution" of Fizzy](https://www.youtube.com/watch?v=6Zif0dRhBnU)
+# [The "Execution" of Fizzy](https://archive.org/details/youtube-6Zif0dRhBnU)
 
 _VisualPlugin:_
 

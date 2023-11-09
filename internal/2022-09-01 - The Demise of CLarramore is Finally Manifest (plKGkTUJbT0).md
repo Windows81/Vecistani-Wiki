@@ -1,4 +1,4 @@
-# [The Demise of CLarramore is Finally Manifest!](https://www.youtube.com/watch?v=plKGkTUJbT0)
+# [The Demise of CLarramore is Finally Manifest!](https://archive.org/details/youtube-plKGkTUJbT0)
 
 _VisualPlugin:_
 
