@@ -1,8 +1,7 @@
 # `2022-06-17:` [The Anthem of Avionlix's Downfall](https://soundcloud.com/shooky-chuchu-moghikill-8/yippers)[(a.k.a. Yippərs)](https://soundcloud.com/shooky-chuchu-moghikill-8/yippers)
 
-[https://mizzan.de/archive/src/scala/xylophone2.html](https://mizzan.de/archive/src/scala/xylophone2.html)
-
-(root = 480 Hz)
+| Tuning: "[xylophone2](https://github.com/AJMansfield/polySynth/blob/master/scl/xylophone2.scl)", root = 480 Hz
+|-|
 
 Lyrics _mostly_ generated from [Cohere](https://cohere.ai/)!
 
@@ -23,4 +22,3 @@ Lyrics _mostly_ generated from [Cohere](https://cohere.ai/)!
 
 - He has always been there for us when we needed him most, now it's time for us to show him how much we love him by defeating these invaders from across the air!!
 - **Long live your Supreme Respected Leader VisualPlugin!!!**
-

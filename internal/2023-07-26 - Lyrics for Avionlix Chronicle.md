@@ -1,7 +1,7 @@
 # `2023-07-26:` Lyrics for Avionlix Chronicle
 
-| Tuning: "harrisonj.scl", root = 576 Hz
---
+| Tuning: "[harrisonj](https://github.com/AJMansfield/polySynth/blob/master/scl/harrisonj.scl)", root = 576 Hz
+|-|
 
 Respected Leader VisualPlugin
 
@@ -118,4 +118,3 @@ His fortissimo is to astound!
 His stature is immaculate!
 
 His rhyme knows only valour!
-

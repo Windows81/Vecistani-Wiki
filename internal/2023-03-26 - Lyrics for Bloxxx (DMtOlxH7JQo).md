@@ -2,8 +2,8 @@
 
 Lyrics were generated and then manually modified from [this LinkedIn post](https://www.linkedin.com/posts/jordonez_chatgpt-rapsong-roblox-activity-7036208130795479040-7Gg0?utm_source=share&utm_medium=member_desktop).
 
-| Tuning: ["yasser_ji.scl"](https://github.com/AJMansfield/polySynth/blob/master/scl/yasser_ji.scl), root = 512 Hz
---
+| Tuning: "[yasser_ji.scl](https://github.com/AJMansfield/polySynth/blob/master/scl/yasser_ji.scl)", root = 512 Hz
+|-|
 
 Rōblox, Rōblox, it's the place to be.
 
@@ -68,4 +68,3 @@ So join us today, and don't be late.
 Rōblox, Rōblox, it's our world of fun.
 
 Let's play together, we'll get it done.
-

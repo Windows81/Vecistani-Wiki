@@ -1,8 +1,8 @@
 # `2022-12-01:` Lyrics for [Great Jubilèé](https://soundcloud.com/shokhi-chumoghiqael-9/the-great-jubilee)
 
 
-| Tuning: "[hjelmboogie.scl](https://github.com/AJMansfield/polySynth/blob/master/scl/hjelmboogie.scl)", root = 576 Hz
---
+| Tuning: "[hjelmboogie](https://github.com/AJMansfield/polySynth/blob/master/scl/hjelmboogie.scl)", root = 576 Hz
+|-|
 
 Celebrate with me
 
@@ -133,4 +133,3 @@ As he takes a faithful stride
 To where a new future begins!
 
 By his will that shall last!
-

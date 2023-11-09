@@ -4,8 +4,8 @@ _I used ChatGPT myself to write the verses, but modifications were made._
 
 _Thanks to LLMs, I can now get a song with thirteen verses written out in no time!_
 
-| ["indian_c.scl"](https://github.com/AJMansfield/polySynth/blob/master/scl/indian_c.scl), root = 400 Hz, is what I used, by the way.
---
+| Tuning: "[indian_c](https://github.com/AJMansfield/polySynth/blob/master/scl/indian_c.scl)", root = 400 Hz
+|-|
 
 ---
 
@@ -248,4 +248,3 @@ We'll make sure you disappear.
 We'll restore our gameplay's glory,
 
 To script a new and better story!
-

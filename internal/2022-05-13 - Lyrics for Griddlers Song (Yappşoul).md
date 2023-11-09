@@ -1,6 +1,7 @@
 # `2022-05-13:` [Lyrics for Griddlers Song](https://soundcloud.com/shooky-chuchu-moghikill-8/yappshoul) (Yappşoul)
 
-[https://mizzan.de/archive/src/scala/al-farabi_9.html](https://mizzan.de/archive/src/scala/al-farabi_9.html) (root = 400 Hz)
+| Tuning: "[al-farabi_9](https://github.com/AJMansfield/polySynth/blob/master/scl/al-farabi_9.scl)", root = 400 Hz
+|-|
 
 Lyrics kinda generated from [Cohere](https://cohere.ai/)!
 
@@ -41,4 +42,3 @@ _Respected Leader VisualPlugin is used to indicate that the actor is a leader fo
 _Constructs a new Respected Leader VisualPlugin are made using the factory methods on_ _org.griddlers.visual.visualplugins.LeaderVisualPlugin\_\_._
 
 _Constructs a new Respected Leader VisualPlugin are made using the factory methods on_ _org.griddlers.visual.visualplugins.LeaderVisualPlugin\_\_._
-

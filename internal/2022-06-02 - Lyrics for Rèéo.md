@@ -1,8 +1,7 @@
 # `2022-06-02:` Lyrics for [Rèéo](http://soundcloud.com/shooky-chuchu-moghikill-8/reeo)
 
-[https://mizzan.de/archive/src/scala/syntonolydian.html](https://mizzan.de/archive/src/scala/syntonolydian.html)
-
-(root = 576 Hz, but we all know the fundamental really to be 648 Hz)
+| Tuning: "[syntonolydian](https://github.com/AJMansfield/polySynth/blob/master/scl/syntonolydian.scl)", root = 576 Hz
+|-|
 
 _Oh, our beloved Respected Leader VisualPlugin! Thanks for the amazing videos!_
 
@@ -53,4 +52,3 @@ Here are the steps for an old S4 version, but the process is similar for later v
 
 - Create a folder on your desktop called "Fixes".
 - Extract the files into this folder.
-
