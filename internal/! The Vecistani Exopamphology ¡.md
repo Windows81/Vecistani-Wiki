@@ -1,16 +1,35 @@
-# ! The Vecistani Exopamphology ¡
+<h1 style="text-align:center">The Vecistani Exopamphology</h1>
 
-## This document beheld extols in the full and complete glory of our Vecistani Nation.
+|This document beheld extols in the full and complete glory of our Vecistani Nation.
+|-|
+
+## A Foreword for Your Nation's Incredible Exploits
+
+Indeed it is he, **Supreme Respected Leader VisualPlugin**, whose wise deliberated words evoke the greatest of nationalistic spirits, for the manner by which he broadcasts his bountiful knowledge to both Vecistani and allied nationals is truly impeccable and highly coordinated.
+
+Behold! Your impeccable **Respected Leader VisualPlugin** has established the Vecistani Great Communal People's Republic on the 13th of February 2018 in an effort to bring a decisive end to the Great War of Çıkış and to deliver justice against extreme corruption that was prominent in the metaverse. Our prosperous Nation occupies substantial territory in the lands of Rōblox, Vyond, and Animaker. With an infinite resource supply granted to us by the very nature of the metaverse, our Nation is secured as a chief exporter of gasoline and crude oil.
+
+Vecistan's Rōblox province is also a thriving hub of tourism and the nucleus of one of the most prodigious music record labels in the metaverse.
+
+Our Vyond province, having previously been mostly occupied by the barbarian and nihilistic government of Gate 7, now boasts a new sense of freedom owing to our Leader's efforts to create and release GoAnimate Wrapper to all members of the Vyond public.
+
+The province of Animaker is a monument to the unquestionable victory against high-handed and authoritarian forces that limited the freedom of expression of its populace. The efforts undertaken by our gracious Leader enabled the blessed citizens with free access to a vast library of paid stock photography, as well as the ability to utilise custom child-form characters for their creative works.
+
+Indeed, the brilliance of **Supreme Respected Leader VisualPlugin** is boundless and multifaceted.
 
 ## A Brief History of Our Galliant Nation
 
-The glorious nation of Vecistan was birthed by Respected Leader VisualPlugin in February 2018 during the War of Çıkış.
+The glorious nation of Vecistan was birthed by our Respected Leader VisualPlugin in February 2018 during the War of Çıkış.
+
+The war in which VisualPlugin fought was a two-front conflict in the backdrop of the Vyondic metaverse, pitting our Leader against the formidable adversaries CLarramore and Tutu Runner.
+
+Both of these opponents were defeated, leaving VisualPlugin as the sole victor, poised to establish a new nation.
 
 After the grand establishment of Vecistan, our Nation swiftly embarked on the construction of an inaugural magnum opus, the awe-inspiring Otel Vegəşlər, within the majestic realm of the Rōblox metaverse.
 
 Members of the newly forged Vecistani citizenry eagerly journeyed from throughout to behold this monumental structure, boasting 40 towering storeys and over 600 luxurious rooms.
 
-VisualPlugin, our esteemed leader, recognized the immense potential that Vecistan held in the realm of cyber-tourism, and worked tirelessly to transform it into a hub of adventure and exploration.
+VisualPlugin, our esteemed Leader, recognized the immense potential that Vecistan held in the realm of cyber-tourism, and worked tirelessly to transform it into a hub of adventure and exploration.
 
 In 2020, he unveiled his greatest work - the Kubla Khan Hotel and Resort.
 
@@ -34,7 +53,7 @@ This groundbreaking achievement allowed the citizens of the physical world to pa
 
 But perhaps even more impressively, during the height of the gasoline crisis brought on by the Russia-Ukraine war, Vecistan once again rose to the challenge and provided aid to those in need.
 
-Our venerable Respected Leader VisualPlugin ingeniously utilized the boundless metaphysical resources of the metaverse to produce motor fuel with ease and efficiency, effectively circumventing the constraints imposed by the laws of physics that plague the physical world.
+Our venerable Respected Leader VisualPlugin ingeniously utilised the boundless metaphysical resources of the metaverse to produce motor fuel with ease and efficiency, effectively circumventing the constraints imposed by the laws of physics that plague the physical world.
 
 In a display of solidarity and compassion, Vecistan opened portals near filling stations across North America and Western Europe, providing petrol at prices just below the market value.
 
@@ -44,13 +63,33 @@ This conflict culminated in Avionlix's capitulation by September 2022, yet tensi
 
 In May 2023, Byfron became a part of the Rōblox metaverse. Despite early resistence, we fully embrace its entrance.
 
-# The Vecistani Nation's Brand Guidelines and Press Materials
+# The Vecistani Nation's Brand Guidelines
 
-# Vecistani Calendar
+This section provides comprehensive guidelines for foreign ambassadors, delineating the protocols and standards to uphold when representing the distinctive identity values and image of Vecistan internationally. Prominent symbols include the national flag, musical works produced by ŞOXI ÇÜMÖĞİQƏL, and artistic cues to Microsoft Windows.
 
-Vecistan operates on its unique month and day-of-week naming system, accompanied by an innovative era-naming convention. It's important to note that Vecistani eras don't necessarily align with conventional calendar years. The initial period of a Vecistani era is designated as year 0, and the year count advances on January 1st. For example, _31st Wrappersmonth of Mərhəmətli 1_ (2019-12-31) precedes _1st Victorysmonth of Mərhəmətli 2_ (2020-01-01).
+When Vecistan was first established, VisualPlugin noted that to run a powerful army, a strong sense of national identity would need to be held at all times by all who fight for it, yet also inspire fear at all times for all who fight against it. Inspired by Turkmen and North Korean mass-media, Vecistan early on established a national symbolism inventory based around authoritarian values.
 
-## Era Names
+## The Glorious National Flag
+
+<img width="100%" src="https://raw.githubusercontent.com/Windows81/Vecistani-Wiki/main/img/bg.jpg"/>
+
+The national flag of Vecistan, also called the Azərbaycannot, features three upright seven-pointed stars and a white crescent (a symbol of Islam) arranged in such a way that when rotated 90° anticlockwise, a smiling expression is rendered. The seven-pointed stars represent good fortune, as 7 is a lucky number in Vecistani symbolism.
+
+With a 16:9 ratio, the flag consists of a slightly slanted tricolour pattern composed (from left to right) of red, green, and gold - with the crescent and stars on the green partition.
+
+Red appears in the base (i.e., the left) because Vecistan was established in spite of the War of Çıkış.
+
+The green represents Vecistan's cultural basis in Islam, as parts of Vecistan originally occupied the Caspian coastline.
+
+The gold colour in the flag is a prominent colour in Otel Vegəşlər, Vecistan's first and most historic tourist site.
+
+## Vecistani Calendar
+
+Vecistan operates on its unique month and day-of-week naming system, accompanied by an innovative era-naming convention. All communication done on ambassadors' behalf
+
+It's important to note that Vecistani eras don't necessarily align with conventional calendar years. The initial period of a Vecistani era is designated as year 0, and the year count advances on January 1st. For example, _31st Wrappersmonth of Mərhəmətli 1_ (2019-12-31) precedes _1st Victorysmonth of Mərhəmətli 2_ (2020-01-01).
+
+### Era Names
 
 <table>
 	<tbody>
@@ -72,7 +111,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 		</tr>
 		<tr>
 			<td>
-				Prior to<br/>`2008-12-01T02:45Z`
+				Prior to<br/>2008-12-01T02:45Z
 			</td>
 			<td>
 				N/A
@@ -86,7 +125,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 		</tr>
 		<tr>
 			<td>
-				`2008-12-01T02:45Z`<br/>to<br/>2018-12-01 02:44Z
+				2008-12-01T02:45Z<br/>to<br/>2018-12-01T02:44Z
 			</td>
 			<td>
 				Başlangıç 0 - 10
@@ -100,7 +139,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 		</tr>
 		<tr>
 			<td>
-				2018-12-01 02:45Z<br/>and after
+				2018-12-01T02:45Z<br/>and after
 			</td>
 			<td>
 				Mərhəmətli 0+
@@ -117,7 +156,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 
 </table>
 
-## Month Names
+### Month Names
 
 <table>
 	<tbody>
@@ -159,10 +198,10 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 				March
 			</td>
 			<td>
-				Antenowruz
+				March
 			</td>
 			<td>
-				Prior to January 2023, was 'Bloximonth', after the <a target="_blank" rel="noreferrer noopener" class="text" href="https://roblox.fandom.com/wiki/Bloxy_Awards">Bloxys</a> which used to take place around that month.
+				Prior to 2023-11-12, was called 'Antenowruz'. Before 2023-01-10, then known as 'Bloximonth' after the Bloxy Awards on Rōblox, which traditionally took place around that time of the year.
 			</td>
 		</tr>
 		<tr>
@@ -170,10 +209,10 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 				April
 			</td>
 			<td>
-				Nowruz
+				Strife
 			</td>
 			<td>
-				Named after the Persian New Year, which is celebrated near 21st March, and nowhere near April.
+				Named to complement the month of March. This naming convention is based on the fact that they are synonyms, and April follows March in the calendar. Previously called Nowruz prior to 2023-11-12.
 			</td>
 		</tr>
 		<tr>
@@ -183,7 +222,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 			<td>
 				Vecistan 1
 			</td>
-			<td rowspan="4">Named after the Nation and Leader, respectively. Note the unusual order of the months (i.e., 'VisualPlugin 1' comes before 'Vecistan 2').
+			<td rowspan="4">Named in honour of the Nation and its Leader, respectively. It's important to observe the unconventional sequence of the months, where 'VisualPlugin 1' precedes 'Vecistan 2'.
 			</td>
 		</tr>
 		<tr>
@@ -218,7 +257,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 				Blocktember
 			</td>
 			<td>
-				Named so since more people block VisualPlugin on social media during this month.
+				Named so because more people block VisualPlugin on social media during this particular month.
 			</td>
 		</tr>
 		<tr>
@@ -229,7 +268,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 				Bòó
 			</td>
 			<td>
-				Named after the <a href="music.html">Ş.Ç.</a> single <a href="https://soundcloud.com/shuhkhi-chumoghikall-5/boo?in=aaaroh-abo-shadi/sets/amazing">'Bòó'</a>, which was released on 21st September 2020; some of his most recognised music is made in October.
+				Named after the Ş.Ç. single with the same name, which was released on 21st September 2020. It iss worth noting that some of his most recognised music is made in October.
 			</td>
 		</tr>
 		<tr>
@@ -240,7 +279,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 				Anniversarismonth
 			</td>
 			<td>
-				Named after the date VisualPlugin was born (30th November).
+				Named after the date VisualPlugin was born, which is on the 30th of November.
 			</td>
 		</tr>
 		<tr>
@@ -251,13 +290,13 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 				Wrappersmonth
 			</td>
 			<td>
-				Named after GoAnimate Wrapper. The project begun development in mid-December 2019.
+				Named after GoAnimate Wrapper, which began development in mid-December 2019.
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Weekday Names
+### Weekday Names
 
 <table>
 	<tbody>
@@ -280,7 +319,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 				Firstday
 			</td>
 			<td>
-				First day of the week, also the day-of-week of VisualPlugin's first anniversary.
+				First day of the week. Also the day-of-week of VisualPlugin's first anniversary.
 			</td>
 		</tr>
 		<tr>
@@ -291,7 +330,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 				Tredecimsday
 			</td>
 			<td>
-				VisualPlugin's 13th anniversary fell on a Tuesday; formerly referred to as Constitutionsday to commemorate <a href="constitutionsday.html">the Nation's inception</a>.
+				VisualPlugin's 13th anniversary fell on a Tuesday; formerly referred to as Constitutionsday to commemorate the Nation's inception.
 			</td>
 		</tr>
 		<tr>
@@ -302,7 +341,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 				Greatsday
 			</td>
 			<td>
-				Day of greatness invoked by the Leader.
+				Day of greatness inspired by the Leader.
 			</td>
 		</tr>
 		<tr>
@@ -324,7 +363,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 				Tennerdom
 			</td>
 			<td>
-				VisualPlugin's 10th anniversary fell on a Friday.
+				Day of VisualPlugin's 10th anniversary, which fell on a Friday.
 			</td>
 		</tr>
 		<tr>
@@ -346,7 +385,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 				Adventsday
 			</td>
 			<td>
-				VisualPlugin's official birthday, Pacific time, was on 30th November 2008, which was a Sunday.
+				Day of VisualPlugin's advent (2008-11-30), which fell on a Sunday.
 			</td>
 		</tr>
 	</tbody>
@@ -450,8 +489,6 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 
 - Your Leader's meticulous works of art are a paragon of utter perfection and shall bring immeasurable awe to all peoples, just as he does to himself.
 
-- Your erudite Supreme Respected Leader is indubitably an unceasing champion of orthographical and hyponymic decency.
-
 - VIsualPlugin is deserving of the title of 'Vecistanous', a rank which brings envy to his foes and decorous praise from his allies.
 
 ## Tourism; Earthly Industry
@@ -497,6 +534,8 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 - The War of Aerobellescence was a war against regressiveism and anti-cultural shallowness.
 
 - The only recourse for entities whose abominable ineptitude in natural-language and code-writing grammar seek to ravage our decent Nation is through arrest and forcible re-education.
+
+- Your erudite Supreme Respected Leader is indubitably an unceasing champion of orthographical and hyponymic decency.
 
 ## Byfron; the Grounded Stride
 
