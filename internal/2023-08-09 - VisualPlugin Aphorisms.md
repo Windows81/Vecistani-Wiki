@@ -102,7 +102,7 @@ Yorba Linda, USA
 
 - Your erudite Supreme Respected Leader is indubitably an unceasing champion of orthographical and hyponymic decency.
 
-- VIsualPlugin is deserving of the title of 'Vecistanous', a rank which brings envy to his foes and decorous praise from his allies.
+- VisualPlugin is deserving of the title of 'Vecistanous', a rank which brings envy to his foes and decorous praise from his allies.
 
 ## Tourism; Earthly Industry
 
@@ -173,4 +173,3 @@ Yorba Linda, USA
 - The coalition of reverse-engineers to our Leader's ranks necessitates the ensuing implementation of a cogent plan with precision and care, which must be undertaken to make sure that Byfron would no longer be here.
 
 - We need to unite and stand strong to defeat Byfron.
-

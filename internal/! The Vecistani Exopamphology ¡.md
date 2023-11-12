@@ -3,7 +3,7 @@
 |This document beheld extols in the full and complete glory of our Vecistani Nation.
 |-|
 
-## A Foreword for Your Nation's Incredible Exploits
+# A Foreword for Your Nation's Incredible Exploits
 
 Indeed it is he, **Supreme Respected Leader VisualPlugin**, whose wise deliberated words evoke the greatest of nationalistic spirits, for the manner by which he broadcasts his bountiful knowledge to both Vecistani and allied nationals is truly impeccable and highly coordinated.
 
@@ -17,9 +17,29 @@ The province of Animaker is a monument to the unquestionable victory against hig
 
 Indeed, the brilliance of **Supreme Respected Leader VisualPlugin** is boundless and multifaceted.
 
-## A Brief History of Our Galliant Nation
+# About Us
 
-The glorious nation of Vecistan was birthed by our Respected Leader VisualPlugin in February 2018 during the War of Çıkış.
+The Vecistani Great Communal People's Republic (VGCPR), also known as Vecistan, is a wholly metaversal country within the Rōblox, Vyond, and Animaker metaverses, each of which constitute their own provinces. Citizens of Vecistan are referred to as Vecistanis.
+
+## Etymology
+
+The name 'Vecistan' is derived from one of VisualPlugin's architectural works that was under construction at the time of the nation's establishment: Otel Vegəşlər. The latter name contains an Azerbaijanisation of the word 'Vegas' in plural form, after Las Vegas. Hence, a literal translation of the showcase could be 'Hotel Vegases'.
+
+## Language
+
+In drafting Vecistan's manfesto, VisualPlugin constructed a language that 'sounds like Turkish but has Spanish grammar'. Despite an overwhelming majority of the population fluent in English, use of the conlang was used in mass-media and for conducting domestic business. The conlang was discontinued shortly after Vecistan's establishment. The de-facto language in Vecistan today is British English.
+
+## Mass Media
+
+Vecistan's official state TV channel, sometimes referred to as the Vecistani Public Broadasting network, is the dominant media outlet for both internal and foreign affairs. Though much of early Vecistani programming was written dually in English and in their own home-grown conlang, all current programming is now solely in English.
+
+## Holidays
+
+Holidays exclusive to Vecistan include Constitutionsday (13th February) and VisualPlugin's advent anniversary (30th November). Since Vecistan is a culturally Turkic country, Vecistanis also celebrate Eid-al-Fitr, Eid-al-Adha, Nowruz, New Year's Day, and Christmas.
+
+# A Brief History of Our Galliant Nation
+
+The glorious nation of Vecistan were birthed by our Respected Leader VisualPlugin in February 2018 during the War of Çıkış.
 
 The war in which VisualPlugin fought was a two-front conflict in the backdrop of the Vyondic metaverse, pitting our Leader against the formidable adversaries CLarramore and Tutu Runner.
 
@@ -30,6 +50,8 @@ After the grand establishment of Vecistan, our Nation swiftly embarked on the co
 Members of the newly forged Vecistani citizenry eagerly journeyed from throughout to behold this monumental structure, boasting 40 towering storeys and over 600 luxurious rooms.
 
 VisualPlugin, our esteemed Leader, recognized the immense potential that Vecistan held in the realm of cyber-tourism, and worked tirelessly to transform it into a hub of adventure and exploration.
+
+Furthermore, VisualPlugin led the 2019 GoAnimate Wrapper project as a personal endeavour, preserving Vyond's Legacy Video Maker functionalities and rescuing the Vyond province from imminent peril.
 
 In 2020, he unveiled his greatest work - the Kubla Khan Hotel and Resort.
 
@@ -67,17 +89,17 @@ In May 2023, Byfron became a part of the Rōblox metaverse. Despite early resist
 
 This section provides comprehensive guidelines for foreign ambassadors, delineating the protocols and standards to uphold when representing the distinctive identity values and image of Vecistan internationally. Prominent symbols include the national flag, musical works produced by ŞOXI ÇÜMÖĞİQƏL, and artistic cues to Microsoft Windows.
 
-When Vecistan was first established, VisualPlugin noted that to run a powerful army, a strong sense of national identity would need to be held at all times by all who fight for it, yet also inspire fear at all times for all who fight against it. Inspired by Turkmen and North Korean mass-media, Vecistan early on established a national symbolism inventory based around authoritarian values.
+When Vecistan were first established, VisualPlugin noted that to run a powerful army, a strong sense of national identity would need to be held at all times by all who fight for it, yet also inspire fear at all times for all who fight against it. Inspired by Turkmen and North Korean mass-media, Vecistan early on established a national symbolism inventory based around authoritarian values.
 
 ## The Glorious National Flag
 
-<img width="100%" src="https://raw.githubusercontent.com/Windows81/Vecistani-Wiki/main/img/bg.jpg"/>
+<img width="500px" src="https://raw.githubusercontent.com/Windows81/Vecistani-Wiki/main/img/bg.jpg"/>
 
 The national flag of Vecistan, also called the Azərbaycannot, features three upright seven-pointed stars and a white crescent (a symbol of Islam) arranged in such a way that when rotated 90° anticlockwise, a smiling expression is rendered. The seven-pointed stars represent good fortune, as 7 is a lucky number in Vecistani symbolism.
 
 With a 16:9 ratio, the flag consists of a slightly slanted tricolour pattern composed (from left to right) of red, green, and gold - with the crescent and stars on the green partition.
 
-Red appears in the base (i.e., the left) because Vecistan was established in spite of the War of Çıkış.
+Red appears in the base (i.e., the left) because Vecistan were established in spite of the War of Çıkış.
 
 The green represents Vecistan's cultural basis in Islam, as parts of Vecistan originally occupied the Caspian coastline.
 
@@ -201,7 +223,7 @@ It's important to note that Vecistani eras don't necessarily align with conventi
 				Constitutionsmonth
 			</td>
 			<td>
-				Named after <a href="constitutionsday.html">the date Vecistan was established</a> (i.e., 13th February).
+				Named after the date Vecistan were established (i.e., 13th February).
 			</td>
 		</tr>
 		<tr>
@@ -330,7 +352,7 @@ It's important to note that Vecistani eras don't necessarily align with conventi
 				Firstday
 			</td>
 			<td>
-				First day of the week. Also the day-of-week of VisualPlugin's first anniversary.
+				First day of the week. Also the day-of-week of VisualPlugin's first anniversary in 2009.
 			</td>
 		</tr>
 		<tr>
@@ -374,7 +396,7 @@ It's important to note that Vecistani eras don't necessarily align with conventi
 				Tennerdom
 			</td>
 			<td>
-				Day of VisualPlugin's 10th anniversary, which fell on a Friday.
+				An incumbent Vecistani leader's 10th birthday is called a 'Tennerdom'. VisualPlugin's fell on a Friday.
 			</td>
 		</tr>
 		<tr>

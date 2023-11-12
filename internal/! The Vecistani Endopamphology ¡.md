@@ -3,13 +3,15 @@
 |This document is intended exclusively for Vecistanous incumbents to review current and past policies established by the Vecistani regiment.
 |-|
 
-|In order to safeguard the confidentiality of Vecistani resolutions and policy records, the Office of R.L. VisualPlugin designates this Endopamphology as highly classified. Access unrestricted is permitted only to current and former Vecistanous incumbents.
+|In order to safeguard the confidentiality of Vecistani resolutions and policy records, the Office of RL VisualPlugin designates this Endopamphology as highly classified. Access unrestricted is permitted only to current and former Vecistanous incumbents.
 |-|
 
 |Any unauthorised disclosure from entities within Vecistan's sphere of influence is subject to penalties, including spacial-temporal expungement.
 |-|
 
 ## A Brief History
+
+The Vecistani Great Communal People's Republic (VGCPR), also known as Vecistan, is a wholly metaversal country within the Rōblox, Vyond, and Animaker metaverses, each of which constitute their own provinces. Citizens of Vecistan are referred to as Vecistanis.
 
 VisualPlugin established Vecistan in February 2018 during the War of Çıkış, which took place almost entirely in the Vyond metaverse.
 
@@ -113,7 +115,7 @@ The Bloxys are an annual awards event show produced by the Rōblox Events Team a
 
 ## Battle of RDC 2019
 
-The belligerants were planning an excursion an invite-only event in the Rōblox metaverse in August 2019. Upon learning that VisualPlugin had not been given an invitation, a robot decoy was allegedly created in the image of Tutu Runner to accompany him. Having quickly gathered this intel, Tutu Runner likewise had a decoy robot of himself designed, despite having been given an official invitation. Both parties were able to enter the venue. Although Tutu Runner remained nondescript immediately after entering, VisualPlugin allegedly performed mind control on every patron during an event presenation, inclusive of the presenter herself. VisualPlugin was then put under a mind-control trance once theymet in a private room.
+The belligerants were planning an excursion an invite-only event in the Rōblox metaverse in August 2019. Upon learning that VisualPlugin had not been given an invitation, a robot decoy was created in the image of Tutu Runner to accompany him. Having quickly gathered this intel, Tutu Runner likewise had a decoy robot of himself designed, despite having been given an official invitation. Both parties were able to enter the venue. Although Tutu Runner remained nondescript immediately after entering, VisualPlugin performed mind control on every patron during an event presenation, inclusive of the presenter herself. VisualPlugin was then put under a mind-control trance once theymet in a private room.
 
 ## End of the War
 
@@ -183,7 +185,7 @@ Since outside information is strictly censored in Vecistan, other Wrapper develo
 
 ## Aftermath
 
-In February 2020, VisualPlugin made a public announcement that he would cease development on Wrapper out of concern for his own safety and conscience. This information was deliberately withheld form Vecistani citizens, which was allegedly proven effective in keeping Vyond morale high owing to Vecistan's stringent censhorship of outside information. Work then resumed on Wrapper for a week in November 2020, only to be halted again for the same reasons.
+In February 2020, VisualPlugin made a public announcement that he would cease development on Wrapper out of concern for his own safety and conscience. This information was deliberately withheld form Vecistani citizens, as Vyondic morale remained elevated, owing to Vecistan's stringent censhorship of outside information. Work then resumed on Wrapper for a week in November 2020, only to be halted again for the same reasons.
 
 Sometime in June 2020, it was reported that authority over the Vyond province was leased off to an unnamed entity.
 
@@ -294,6 +296,9 @@ Avionlix is a Rōbloxian private citizen from outside Vecistan's domain. A sham 
 Byfron is the overseeing entity for the anti-cheat quantum manipulation platform utilised within the Rōblox metaphysicum, named Hyperion.
 
 |From 2023-10-26, expunge all public records that support the following narrative.
+|-|
+
+|Reason: portrays Vecistan in antithetically to their current political direction.
 |-|
 
 ~~Initially deemed a minor threat to Vecistan's national security, the situation escalated by late April 2023 as Hyperion gradually rolled out to Rōblox citizens. In spite of rising security concerns, Vecistan had no immediate plans to engage in a hypothetical war with Byfron. Hyperion's universal implementation took place on 2023-05-04 00:48 UTC, hampering the incumbent Leader VisualPlugin's superpowered functionalities, such as flying capabilities within public Rōblox worlds and reduced utilization of ReShade.~~
@@ -428,7 +433,7 @@ Byfron is the company currently responsible for maintaining the anti-cheat quant
 
 ~~Between March and April 2018, his victims were gathered into cohorts of between 500 and 5000 and forced to work in a private cotton field. Cohorts were then tortured by watching kids' television shows for hours each day - including Curious Buddies, Dora The Explorer. Zerithyl was known to group victims based on a common trait, as was the case with a cohort of 4000 Vecistani Jews. Another with 5000 included ethnic Ragamuffins and Juggalos. Zerithyl was sometimes known to invite colleagues from outside Vecistan to assist him in torture sessions.~~
 
-~~On the night of 2018-04-16, VisualPlugin was kidnapped by Zerithyl. Learning of Zerithyl's abilities of clairvoyance and evasion of mind-control, VisualPlugin was successfully able to teleport Zerithyl to 'the far reaches of his mind', effectively imprisoning him. This was likely possible due to the fact that Zerithyl, despite being precognisant of VisualPlugin's teleporation scheme, was unable to stop it.~~
+~~On the night of 2018-04-16, VisualPlugin was kidnapped by Zerithyl. Learning of Zerithyl's abilities of clairvoyance and evasion of mind-control, VisualPlugin was successfully able to teleport Zerithyl to 'the far reaches of his mind', effectively imprisoning him. We believe this was possible because Zerithyl, despite being precognisant of VisualPlugin's teleporation scheme, was unable to stop it.~~
 
 ~~For Vecistani escapees, Zerithyl represents the Vecistan's heavy hand of censorship of facts that undermine its strength. As mass-media is strictly censored in Vecistan, citizens living outside of GoAnimate City are completely unaware of Zerithyl's existence. Vecistan's decision to withhold this intel from general Vecistani discourse was due to the unavoidably lasting effects of the murders in GoAnimate City, despite VisualPlugin's victory.~~
 
@@ -436,7 +441,7 @@ Byfron is the company currently responsible for maintaining the anti-cheat quant
 
 This section provides comprehensive guidelines for foreign ambassadors, delineating the protocols and standards to uphold when representing the distinctive identity values and image of Vecistan internationally. Prominent symbols include the national flag, musical works produced by ŞOXI ÇÜMÖĞİQƏL, and artistic cues to Microsoft Windows.
 
-When Vecistan was first established, VisualPlugin noted that to run a powerful army, a strong sense of national identity would need to be held at all times by all who fight for it, yet also inspire fear at all times for all who fight against it. Inspired by Turkmen and North Korean mass-media, Vecistan early on established a national symbolism inventory based around authoritarian values.
+When Vecistan were first established, VisualPlugin noted that to run a powerful army, a strong sense of national identity would need to be held at all times by all who fight for it, yet also inspire fear at all times for all who fight against it. Inspired by Turkmen and North Korean mass-media, Vecistan early on established a national symbolism inventory based around authoritarian values.
 
 ## The National Flag
 
@@ -444,7 +449,7 @@ The national flag of Vecistan, also called the Azərbaycannot, features three up
 
 With a 16:9 ratio, the flag consists of a slightly slanted tricolour pattern composed (from left to right) of red, green, and gold - with the crescent and stars on the green partition.
 
-Red appears in the base (i.e., the left) because Vecistan was established in spite of the War of Çıkış.
+Red appears in the base (i.e., the left) because Vecistan were established in spite of the War of Çıkış.
 
 The green represents Vecistan's cultural basis in Islam, as parts of Vecistan originally occupied the Caspian coastline.
 
@@ -469,9 +474,25 @@ Like other national symbols, Vecistani numerology is heavily influenced by Visua
 
 For instance, the national 'flagship' number is 127.1 and represents the Vecistani brand of intelligence and national supremacy, taking from the standard score (100 SD 15) VisualPlugin had received for a WJ-IV cognitive examination in late 2017. Other notable numbers include 7, 13, 69 (nice), 666, and 1337. Each have with their own sentimentalities and connotations in the Vecistani custom. Prime numbers are viewed as atomic symbols in themselves for their infactorability. Primes which are factors of other important numbers are also significant and serve as analogues for their composite counterparts. For instance, 23 is a prime analogue of 69.
 
+## Etymology
+
+The name 'Vecistan' is derived from one of VisualPlugin's architectural works that was under construction at the time of the nation's establishment: Otel Vegəşlər. The latter name contains an Azerbaijanisation of the word 'Vegas' in plural form, after Las Vegas. Hence, a literal translation of the showcase could be 'Hotel Vegases'.
+
+## Language
+
+In drafting Vecistan's manfesto, VisualPlugin constructed a language that 'sounds like Turkish but has Spanish grammar'. Despite an overwhelming majority of the population fluent in English, use of the conlang was enforced in mass-media and required for conducting domestic business. Despite the emphasis early on, the conlang was discontinued shortly after Vecistan's establishment. The de-facto language in Vecistan today is British English.
+
+## Mass Media
+
+Vecistan's official state TV channel, sometimes referred to as the Vecistani Public Broadasting network, is the dominant media outlet for both internal and foreign affairs. Vecistan's mass media is heavily censored and written to glorify the nation's leader. Though much of early Vecistani programming was written dually in English and in their own home-grown conlang, all current programming is now solely in English.
+
+## Holidays
+
+Holidays exclusive to Vecistan include Constitutionsday (02-13) and VisualPlugin's advent anniversary (11-30). Since Vecistan is a culturally Turkic country, Vecistanis also celebrate Eid-al-Fitr, Eid-al-Adha, Nowruz, New Year's Day, and Christmas.
+
 ## The National Calendar
 
-Vecistan has its own month and day-of-week system. A novel year-naming system is also adopted for use in Vecistan.
+Vecistan have its own month and day-of-week system. A novel year-naming system is also adopted for use in Vecistan.
 
 Note that eras do not need to begin or end on the beginning of a new year. According to precedent, the partial year in which a Vecistani era begins should be numbered 0. The year number then increments by one on 1st January. That is: _31st Wrappersmonth of Mərhəmətli 1_ (2019-12-31) comes before _1st Victorysmonth of Mərhəmətli 2_ (2020-01-01).
 
@@ -576,7 +597,7 @@ Note that eras do not need to begin or end on the beginning of a new year. Accor
 				Constitutionsmonth
 			</td>
 			<td>
-				Named after <a href="constitutionsday.html">the date Vecistan was established</a> (i.e., 13th February).
+				Named after the date Vecistan were established (i.e., 13th February).
 			</td>
 		</tr>
 		<tr>
@@ -705,7 +726,7 @@ Note that eras do not need to begin or end on the beginning of a new year. Accor
 				Firstday
 			</td>
 			<td>
-				First day of the week. Also the day-of-week of VisualPlugin's first anniversary.
+				First day of the week. Also the day-of-week of VisualPlugin's first anniversary in 2009.
 			</td>
 		</tr>
 		<tr>
@@ -840,4 +861,5 @@ In March 2018, the Vecistani-VisualPlugin Propaganda Veracity Act mandated that 
 
 **Tennerdom:** The tenth anniversary of Vecistanous. Coined in 2018 for VisualPlugin's occasion on 11-30.
 
-**
+**Constitutionsday:** The day of Vecistan's foundation, 2018-02-13. Not to be confused with the former Vecistani name for Tuesday.
+\*\*
