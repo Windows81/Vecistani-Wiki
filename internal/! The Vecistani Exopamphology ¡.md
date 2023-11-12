@@ -72,7 +72,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 		</tr>
 		<tr>
 			<td>
-				Prior to<br/>2008-12-01 02:45Z
+				Prior to<br/>`2008-12-01T02:45Z`
 			</td>
 			<td>
 				N/A
@@ -86,7 +86,7 @@ Vecistan operates on its unique month and day-of-week naming system, accompanied
 		</tr>
 		<tr>
 			<td>
-				2008-12-01 02:45Z<br/>to<br/>2018-12-01 02:44Z
+				`2008-12-01T02:45Z`<br/>to<br/>2018-12-01 02:44Z
 			</td>
 			<td>
 				Başlangıç 0 - 10

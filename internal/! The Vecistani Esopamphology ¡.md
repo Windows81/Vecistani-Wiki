@@ -1,6 +1,7 @@
 # ! The Vecistani Esopamphology ¡
 
-## This document is highly classified. Free access is solely reserved for current and former Vecistanous incumbents. Leakage to realms within Vecistan's sphere of influence is punishable by spacial-temporal expungement.
+|This document is highly classified. Free access is solely reserved for current and former Vecistanous incumbents. Leakage to realms within Vecistan's sphere of influence is punishable by spacial-temporal expungement.
+|-|
 
 ## A Brief History
 
@@ -42,7 +43,7 @@ Note that ears do not necessarily begin or end on the beginning of a new year. T
 		</tr>
 		<tr>
 			<td>
-				Prior to<br/>2008-12-01 02:45Z
+				Prior to<br/>`2008-12-01T02:45Z`
 			</td>
 			<td>
 				N/A
@@ -56,7 +57,7 @@ Note that ears do not necessarily begin or end on the beginning of a new year. T
 		</tr>
 		<tr>
 			<td>
-				2008-12-01 02:45Z<br/>to<br/>2018-12-01 02:44Z
+				`2008-12-01T02:45Z`<br/>to<br/>2018-12-01 02:44Z
 			</td>
 			<td>
 				Başlangıç 0 - 10
@@ -486,7 +487,8 @@ Note that ears do not necessarily begin or end on the beginning of a new year. T
 
 - The green and blue colors of Byfron's logo represent peace, growth, and prosperity. Our Nation are excited to see what new opportunities will emerge as we deepen our relationship with this innovative company.
 
-## The following aphorisms have been deprecated as of 2023-10-26. Disclosure without Vecistanous permission will result in severe moderation action.
+|The following aphorisms have been deprecated as of 2023-10-26. Disclosure without Vecistanous permission will result in severe moderation action.
+|-|
 
 - ~~Rōblox's hostile introduction of Byfron and Hyperion runs counter to Vecistani time-tested values.~~
 
