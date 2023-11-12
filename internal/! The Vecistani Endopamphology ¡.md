@@ -675,7 +675,7 @@ Note that eras do not need to begin or end on the beginning of a new year. Accor
 				Bòó
 			</td>
 			<td>
-				Named after the Ş.Ç. single 'Bòó', which was released on 21st September 2020; some of his most recognised music is made in October.
+				Named after the Şöxı single 'Bòó', which was released on 21st September 2020; some of his most recognised music is made in October.
 			</td>
 		</tr>
 		<tr>
@@ -808,7 +808,7 @@ Vecistan prohibit the distribution or playback of music produced outside the lab
 
 - Full title is 'the Xenharmonically Provident Musical Virtuosity Which Rests in the Glory of Our Creative Vecistani Nation, ŞOXI ÇÜMÖĞİQƏL'.
 
-- All Ş.Ç. pieces are licenced under CC-BY-SA for use both inside and outside of Vecistan.
+- All Şöxı pieces are licenced under CC-BY-SA for use both inside and outside of Vecistan.
 
 - Try to release every production onto SoundCloud within 11 days after first TV broadcast.
 
@@ -816,13 +816,13 @@ Vecistan prohibit the distribution or playback of music produced outside the lab
 
   - Older tracks were often rendered to be 1 minute and 27 seconds long.
 
-- Double down on claims that Ş.Ç. consist of artists of different backgrounds from across the Nation.
+- Double down on claims that Şöxı consist of artists of different backgrounds from across the Nation.
 
 - As of 2023-11-12, VisualPlugin is the sole author of every song released by ŞOXI ÇÜMÖĞİQƏL.
 
-  - Open but selective to new talent; Ş.Ç. is chartered as a multi-employee company.
+  - Open but selective to new talent; Şöxı is chartered as a multi-employee company.
 
-- Most singles are instrumentals.
+- Most of Şöxı's singles are instrumentals.
 
 - Genre can be fluid; previous works dive into orchestral, dubstep, trap, and atmospheric themes.
 
@@ -836,7 +836,7 @@ Vecistan prohibit the distribution or playback of music produced outside the lab
 
   - For example, GΠ☂☂, originally composed by stacking 3:4:5 harmonies over 50, 60, and 69 Hz and using the union as the scale, was remapped to 12-edo in a MIDI rendition.
 
-  - The ministry's first non-diatonic single, Just Intonated JIst [7], was broadcast on Vecistani airwaves, having been released on SoundCloud immediately after the airing.
+  - The ministry's first non-diatonic single, Just Intonated JIst, was broadcast on Vecistani airwaves, having been released on SoundCloud immediately after the airing.
 
 ## Television Ministry
 
@@ -852,8 +852,8 @@ In March 2018, the Vecistani-VisualPlugin Propaganda Veracity Act mandated that 
 
 - Actively censor the following discourses **as a priority**:
 
-  - 2018 Zerithyl massacre
-  - Vecistan-Byfron conflict
+  - 2018 Zerithyl massacre.
+  - Vecistan-Byfron conflict.
 
 # Definitions
 
@@ -862,4 +862,3 @@ In March 2018, the Vecistani-VisualPlugin Propaganda Veracity Act mandated that 
 **Tennerdom:** The tenth anniversary of Vecistanous. Coined in 2018 for VisualPlugin's occasion on 11-30.
 
 **Constitutionsday:** The day of Vecistan's foundation, 2018-02-13. Not to be confused with the former Vecistani name for Tuesday.
-\*\*
