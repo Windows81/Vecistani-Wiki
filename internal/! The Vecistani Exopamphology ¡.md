@@ -83,6 +83,17 @@ The green represents Vecistan's cultural basis in Islam, as parts of Vecistan or
 
 The gold colour in the flag is a prominent colour in Otel Vegəşlər, Vecistan's first and most historic tourist site.
 
+## The Legendary National Hymn
+
+The Arboreal Anthem (also known as the RLVP Anthem, is the official national hymn of Vecistan. It was originally released by ŞOXI ÇÜMÖĞİQƏL as a single, in tandem with a televised presentation by VisualPlugin in early 2019. The anthem is named for the first line, which is a national motto representing the cedar as a marker of Vecistan's durability.
+
+```
+Nation of the cedar;
+Nothing can be sweeter!
+Glory is a-hither;
+Glory to the Leader!
+```
+
 ## Vecistani Calendar
 
 Vecistan operates on its unique month and day-of-week naming system, accompanied by an innovative era-naming convention. All communication done on ambassadors' behalf
@@ -268,7 +279,7 @@ It's important to note that Vecistani eras don't necessarily align with conventi
 				Bòó
 			</td>
 			<td>
-				Named after the Ş.Ç. single with the same name, which was released on 21st September 2020. It iss worth noting that some of his most recognised music is made in October.
+				Named after the Ş.Ç. single with the same name, which was released on 2020-09-21. It iss worth noting that some of his most recognised music is made in October.
 			</td>
 		</tr>
 		<tr>
@@ -488,8 +499,6 @@ It's important to note that Vecistani eras don't necessarily align with conventi
 - The reputation of Respected Leader VisualPlugin remains eternally outstanding.
 
 - Your Leader's meticulous works of art are a paragon of utter perfection and shall bring immeasurable awe to all peoples, just as he does to himself.
-
-- VIsualPlugin is deserving of the title of 'Vecistanous', a rank which brings envy to his foes and decorous praise from his allies.
 
 ## Tourism; Earthly Industry
 

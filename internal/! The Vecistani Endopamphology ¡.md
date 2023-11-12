@@ -21,40 +21,6 @@ In March 2022, Vecistan became the first digital Nation to allow Earthly beings 
 
 VisualPlugin has leveraged the metaverse's physicochemistry to generate Earthly resources without worrying about scarcity.
 
-# Media Policy in Vecistan
-
-## Music-Production Ministry
-
-ŞOXI ÇÜMÖĞİQƏL is the official ministry of music for the Vecistani Great Communal People's Republic, operating also as a copyright-free record label. The name 'ŞOXI ÇÜMÖĞİQƏL' was a pronouncible non-word chosen for its inclusion of every letter that is made distinguishable in Azerbaijani but not in non-Turkic scripts (i.e., I, İ, Ə, X, Q, Ç, Ş, Ö, and Ü) within the name.
-
-Vecistan prohibit the distribution or playback of music produced outside the label, unless there is specific intent to complement a foreign property that song is associated with (e.g., distributing copies of the Adopt Me soundtrack in a context where that game is being discussed).
-
-- Full title is 'the Xenharmonically Provident Musical Virtuosity Which Rests in the Glory of Our Creative Vecistani Nation, ŞOXI ÇÜMÖĞİQƏL'.
-
-- All Ş.Ç. pieces are licenced under CC-BY-SA for use both inside and outside of Vecistan.
-
-- Try to release every production onto SoundCloud within 11 days after first TV broadcast.
-
-- Try to make tracks at least 3 minutes long.
-
-  - Older tracks were often rendered to be 1 minute and 27 seconds long.
-
-- Double down on claims that Ş.Ç. consist of artists of different backgrounds from across the Nation.
-
-- VisualPlugin is the sole author of every song released by ŞOXI ÇÜMÖĞİQƏL.
-
-## Television Ministry
-
-The Vecistani state TV channel, sometimes referred to as the Vecistani Public Broadasting network, is the official broadcast medium of all Vecistan-related news. It was established on 2018-02-13 by VisualPlugin.
-
-In March 2018, the Vecistani-VisualPlugin Propaganda Veracity Act mandated that all television sets manufactured or located within Vecistan must be permanently tuned to state-controlled channels.
-
-- To receive Vecistani airwaves, foreign television sets must be modded by a state-licenced technician.
-
-- Repurposed streaming sticks available for public since mid-2022.
-
-- Promote viewership of Vecistani programmes outside the metaverse.
-
 # VisualPlugin; Aphorisms for His Officiality
 
 - Our immaculate Nation is wholly represented in the wise interests of Respected Leader VisualPlugin, just as our precious Leader is made part and parcel of the interests of a victorious Vecistani state.
@@ -92,69 +58,6 @@ In March 2018, the Vecistani-VisualPlugin Propaganda Veracity Act mandated that 
 - Your Leader's meticulous works of art are a paragon of utter perfection and shall bring immeasurable awe to all peoples, just as he does to himself.
 
 - VIsualPlugin is deserving of the title of 'Vecistanous', a rank which brings envy to his foes and decorous praise from his allies.
-
-# Notes on Foreign Relations
-
-Vecistan maintains a long list of relationship with national allies and enemies, some of which are covert. Vecistan's official diplomatic status may not reflect the current public discourse.
-
-## Avionlix
-
-- Avionlix is a Rōbloxian private citizen from outside Vecistan's domain.
-
-- Vecistan were familiar with Avionlix since 2021.
-
-  - Both parties have covertly been on friendly terms.
-  - Both parties regularly communicate on Discord.
-
-- Sham war was declared on 2022-06-03 09:19 UTC.
-
-  - The public name was War of Aerobellescence.
-
-  - Despite nominal declaration, no soldiers were deployed.
-
-  - In public materials, make sure to:
-
-    - Characterise Avionlix as 'brutish'.
-
-    - Cherry-pick or fabricate examples of written text where Avionlix says dumb stuff.
-
-    - Avoid characterising Avionlix as a single being; preferred to use 'Avionlix hoarde' or 'the Avionlix'.
-
-  - All surrender declarations by Avionlix are staged and are often portrayed by Vecistani animators at the discretion of Vecistanous.
-
-    - 2022-09-06: declaration fabricated; aired once and briefly mentioned in 2022 Innovation Awards special.
-
-## Byfron
-
-- Byfron is the company currently responsible for maintaining the anti-cheat quantum manipulation platform used for the Rōblox metaphysicum.
-
-  - Hyperion is the name of that platform.
-
-  - In public materials, preferred to use 'Byfron' for personification.
-
-- In October 2022, Byfron emerged into the Rōblox metaverse to build their quantam platform.
-
-  - At the time, Byfron was declared a minimal threat to Vecistani national security.
-
-- In late April 2023, Hyperion was being gradually rolled out to the Rōblox citizenry.
-
-  - As the national-security risk was rising, Vecistan didn't have any short-term plans to win Byfron in a hypothetical war.
-
-- Hyperion was made universal from 2023-05-04 00:48 UTC.
-
-  - Main contentive points were impaired ability to fly in public Rōblox worlds and weakened use of ReShade.
-
-- War shortly declared after.
-
-  - Twenty-three days of inflamatory content aired on Vecistani broadcast.
-
-  - Alternative Rōblox-like metaworlds were considered, but not acted upon, for civilian evacuation.
-
-- War with Byfron ended on 2023-10-26 following the colaition of Synapse Softworks LLC and Rōblox.
-
-  - **Important 2023-10-26:** expunge all records of conflict with Byfron.
-
-  - Current public materials should communicate yearning for full co-operation and openness to interop with Byfron.
 
 # Vecistani Constitution & the War of Çıkış
 
@@ -360,6 +263,10 @@ Since September 2022, Vecistan have been running Botox manufacturing plants and 
 
 # The War of Avionlix & Its Extended Aftermath
 
+Avionlix is a Rōbloxian private citizen from outside Vecistan's domain. A sham war was declared on 2022-06-03 09:19 UTC. The public name was War of Aerobellescence. Despite nominal declaration, no soldiers were deployed. The Avionlix event was an opportunity to energise the Vecistani citizenry further into the reaches of Vecistani influence.
+
+## Relevant Aphorisms
+
 - Avionlix's destiny is to aid our Nation to ultimate victory.
 
 - If we fail to promptly enforce upon the Avionlix horde a rigorous Vecistani education, his poor genetic constitution will nullify all reach to enlighten him.
@@ -386,7 +293,7 @@ Since September 2022, Vecistan have been running Botox manufacturing plants and 
 
 Byfron is the overseeing entity for the anti-cheat quantum manipulation platform utilised within the Rōblox metaphysicum, named Hyperion.
 
-|Expunge all public records that support the following narrative as of 2023-10-26
+|From 2023-10-26, expunge all public records that support the following narrative.
 |-|
 
 ~~Initially deemed a minor threat to Vecistan's national security, the situation escalated by late April 2023 as Hyperion gradually rolled out to Rōblox citizens. In spite of rising security concerns, Vecistan had no immediate plans to engage in a hypothetical war with Byfron. Hyperion's universal implementation took place on 2023-05-04 00:48 UTC, hampering the incumbent Leader VisualPlugin's superpowered functionalities, such as flying capabilities within public Rōblox worlds and reduced utilization of ReShade.~~
@@ -444,6 +351,87 @@ Current public materials should convey a strong desire for full cooperation and 
 
 - ~~We need to unite and stand strong to defeat Byfron.~~
 
+# Notes on Foreign Relations
+
+Vecistan maintains a long list of relationship with national allies and enemies, some of which are covert. Vecistan's official diplomatic status may not reflect the current public discourse.
+
+## Avionlix
+
+Avionlix is a Rōbloxian private citizen from outside Vecistan's domain.
+
+- Vecistan were familiar with Avionlix since 2021.
+
+  - Both parties have covertly been on friendly terms.
+  - Both parties regularly communicate on Discord.
+
+- Sham war was declared on 2022-06-03 09:19 UTC.
+
+  - The Avionlix event was an opportunity to energise the Vecistani citizenry further into the reaches of Vecistani influence.
+
+  - The public name was War of Aerobellescence.
+
+  - Despite nominal declaration, no soldiers were deployed.
+
+  - In public materials, make sure to:
+
+    - Characterise Avionlix as 'brutish'.
+
+    - Cherry-pick or fabricate examples of written text where Avionlix says dumb stuff.
+
+    - Avoid characterising Avionlix as a single being; preferred to use 'Avionlix hoarde' or 'the Avionlix'.
+
+  - All surrender declarations by Avionlix are staged and are often portrayed by Vecistani animators at the discretion of Vecistanous.
+
+    - 2022-09-06: declaration fabricated; aired once and briefly mentioned in 2022 Innovation Awards special.
+
+## Byfron
+
+Byfron is the company currently responsible for maintaining the anti-cheat quantum manipulation platform used for the Rōblox metaphysicum.
+
+- Hyperion is the name of that platform.
+
+  - In public materials, preferred to use 'Byfron' for personification.
+
+- In October 2022, Byfron emerged into the Rōblox metaverse to build their quantam platform.
+
+  - At the time, Byfron was declared a minimal threat to Vecistani national security.
+
+- In late April 2023, Hyperion was being gradually rolled out to the Rōblox citizenry.
+
+  - As the national-security risk was rising, Vecistan didn't have any short-term plans to win Byfron in a hypothetical war.
+
+- Hyperion was made universal from 2023-05-04 00:48 UTC.
+
+  - Main contentive points were impaired ability to fly in public Rōblox worlds and weakened use of ReShade.
+
+- War shortly declared after.
+
+  - Twenty-three days of inflamatory content aired on Vecistani broadcast.
+
+  - Alternative Rōblox-like metaworlds were considered, but not acted upon, for civilian evacuation.
+
+- War with Byfron ended on 2023-10-26 following the colaition of Synapse Softworks LLC and Rōblox.
+
+  - **Important 2023-10-26:** expunge all records of conflict with Byfron.
+
+  - Current public materials should communicate yearning for full co-operation and openness to interop with Byfron.
+
+# Zerithyl
+
+|Expunge all public records that support the following narrative.
+|-|
+
+|Reason: portrays Vecistan as unable to maintain order and prevent mass-murderer.
+|-|
+
+~~Zerithyl was a Godrodian warlord outside Vecistan for the 2018 massacres, and ensuing kidnappings, in Vecistani-occupied GoAnimate City. The rampage had taken place soon following Zerithyl's escape from prison in March 2018. His GoAnimate form is a green silhouette of Boris, though he had not been seen in other metaverses.~~
+
+~~Between March and April 2018, his victims were gathered into cohorts of between 500 and 5000 and forced to work in a private cotton field. Cohorts were then tortured by watching kids' television shows for hours each day - including Curious Buddies, Dora The Explorer. Zerithyl was known to group victims based on a common trait, as was the case with a cohort of 4000 Vecistani Jews. Another with 5000 included ethnic Ragamuffins and Juggalos. Zerithyl was sometimes known to invite colleagues from outside Vecistan to assist him in torture sessions.~~
+
+~~On the night of 2018-04-16, VisualPlugin was kidnapped by Zerithyl. Learning of Zerithyl's abilities of clairvoyance and evasion of mind-control, VisualPlugin was successfully able to teleport Zerithyl to 'the far reaches of his mind', effectively imprisoning him. This was likely possible due to the fact that Zerithyl, despite being precognisant of VisualPlugin's teleporation scheme, was unable to stop it.~~
+
+~~For Vecistani escapees, Zerithyl represents the Vecistan's heavy hand of censorship of facts that undermine its strength. As mass-media is strictly censored in Vecistan, citizens living outside of GoAnimate City are completely unaware of Zerithyl's existence. Vecistan's decision to withhold this intel from general Vecistani discourse was due to the unavoidably lasting effects of the murders in GoAnimate City, despite VisualPlugin's victory.~~
+
 # Vecistan's Æsthetic Identity
 
 This section provides comprehensive guidelines for foreign ambassadors, delineating the protocols and standards to uphold when representing the distinctive identity values and image of Vecistan internationally. Prominent symbols include the national flag, musical works produced by ŞOXI ÇÜMÖĞİQƏL, and artistic cues to Microsoft Windows.
@@ -464,11 +452,26 @@ The green represents Vecistan's cultural basis in Islam, as parts of Vecistan or
 
 The gold colour in the flag is a prominent colour in Otel Vegəşlər, Vecistan's first and most historic tourist site.
 
-## Vecistani Calendar
+## The Arboreal Anthem
+
+The Arboreal Anthem (also known as the RLVP Anthem, is the official national hymn of Vecistan. It was originally released by ŞOXI ÇÜMÖĞİQƏL as a single, in tandem with a televised presentation by VisualPlugin in early 2019. The anthem is named for the first line, which is a national motto representing the cedar as a marker of Vecistan's durability.
+
+```
+Nation of the cedar;
+Nothing can be sweeter!
+Glory is a-hither;
+Glory to the Leader!
+```
+
+## The Numerology
+
+Like other national symbols, Vecistani numerology is heavily influenced by VisualPlugin's example. For instance, the national 'flagship' number is 127.1 and represents intelligence and national supremacy, taking from the standard score (100 SD 15) VisualPlugin had received for a WJ-IV cognitive examination in late 2017. Other notable numbers include 7, 13, 69, 666, and 1337. Each have with their own sentimentalities and connotations in the Vecistani custom. Prime numbers are viewed as atomic symbols in themselves for their infactorability. Primes which are factors of other important numbers are also significant and serve as analogues for their composite counterparts. For instance, 23 is a prime analogue of 69.
+
+## The National Calendar
 
 Vecistan has its own month and day-of-week system. A novel year-naming system is also adopted for use in Vecistan.
 
-Note that years do not necessarily begin or end on the beginning of a new year. The partial year in which a Vecistani era begins is numbered 0. The year number then increments by one on 1st January. I.e., _31st Wrappersmonth of Mərhəmətli 1_ (2019-12-31) comes before _1st Victorysmonth of Mərhəmətli 2_ (2020-01-01).
+Note that eras do not need to begin or end on the beginning of a new year. According to precedent, the partial year in which a Vecistani era begins should be numbered 0. The year number then increments by one on 1st January. That is: _31st Wrappersmonth of Mərhəmətli 1_ (2019-12-31) comes before _1st Victorysmonth of Mərhəmətli 2_ (2020-01-01).
 
 ### Era Names
 
@@ -649,7 +652,7 @@ Note that years do not necessarily begin or end on the beginning of a new year. 
 				Bòó
 			</td>
 			<td>
-				Named after the <a href="music.html">Ş.Ç.</a> single <a href="https://soundcloud.com/shuhkhi-chumoghikall-5/boo?in=aaaroh-abo-shadi/sets/amazing">'Bòó'</a>, which was released on 21st September 2020; some of his most recognised music is made in October.
+				Named after the Ş.Ç. single 'Bòó', which was released on 21st September 2020; some of his most recognised music is made in October.
 			</td>
 		</tr>
 		<tr>
@@ -771,3 +774,68 @@ Note that years do not necessarily begin or end on the beginning of a new year. 
 		</tr>
 	</tbody>
 </table>
+
+# Media Policy in Vecistan
+
+## Music-Production Ministry
+
+ŞOXI ÇÜMÖĞİQƏL is the official ministry of music for the Vecistani Great Communal People's Republic, operating also as a copyright-free record label. The name 'ŞOXI ÇÜMÖĞİQƏL' was a pronouncible non-word chosen for its inclusion of every letter that is made distinguishable in Azerbaijani but not in non-Turkic scripts (i.e., I, İ, Ə, X, Q, Ç, Ş, Ö, and Ü) within the name.
+
+Vecistan prohibit the distribution or playback of music produced outside the label, unless there is specific intent to complement a foreign property that song is associated with (e.g., distributing copies of the Adopt Me soundtrack in a context where that game is being discussed).
+
+- Full title is 'the Xenharmonically Provident Musical Virtuosity Which Rests in the Glory of Our Creative Vecistani Nation, ŞOXI ÇÜMÖĞİQƏL'.
+
+- All Ş.Ç. pieces are licenced under CC-BY-SA for use both inside and outside of Vecistan.
+
+- Try to release every production onto SoundCloud within 11 days after first TV broadcast.
+
+- Try to make tracks at least 3 minutes long.
+
+  - Older tracks were often rendered to be 1 minute and 27 seconds long.
+
+- Double down on claims that Ş.Ç. consist of artists of different backgrounds from across the Nation.
+
+- As of 2023-11-12, VisualPlugin is the sole author of every song released by ŞOXI ÇÜMÖĞİQƏL.
+
+  - Open but selective to new talent; Ş.Ç. is chartered as a multi-employee company.
+
+- Most singles are instrumentals.
+
+- Genre can be fluid; previous works dive into orchestral, dubstep, trap, and atmospheric themes.
+
+- As of 2022-01-06, DAW of choice is FL Studio.
+
+- Starting mid-2020, it is now illegal to compose songs solely in 4/4 (i.e., common time).
+
+- VisualPlugin announced on 2021-09-17 that from 2021-09-19, all songs must use a microtonal scale of any form (i.e., just, N-edo, etc.)
+
+  - This rule does not apply to tracks which already have a microtonal version.
+
+  - For example, GΠ☂☂, originally composed by stacking 3:4:5 harmonies over 50, 60, and 69 Hz and using the union as the scale, was remapped to 12-edo in a MIDI rendition.
+
+  - The ministry's first non-diatonic single, Just Intonated JIst [7], was broadcast on Vecistani airwaves, having been released on SoundCloud immediately after the airing.
+
+## Television Ministry
+
+The Vecistani state TV channel, sometimes referred to as the Vecistani Public Broadasting network, is the official broadcast medium of all Vecistan-related news. It was established on 2018-02-13 by VisualPlugin.
+
+In March 2018, the Vecistani-VisualPlugin Propaganda Veracity Act mandated that all television sets manufactured or located within Vecistan must be permanently tuned to state-controlled channels.
+
+- To receive Vecistani airwaves, foreign television sets must be modded by a state-licenced technician.
+
+- Repurposed streaming sticks available for public since mid-2022.
+
+- Promote viewership of Vecistani programmes outside the metaverse.
+
+- Actively censor the following discourses **as a priority**:
+
+  - 2018 Zerithyl massacre
+  - Vecistan-Byfron conflict
+
+# Definitions
+
+**Vecistanous:** The title given to the incumbent leader of Vecistan. VisualPlugin is the first Vecistanous. The term was coined in October 2023 in an effort to establish an induction process for the succession of VisualPlugin's rule.
+
+**Tennerdom:** The tenth anniversary of Vecistanous. Coined in 2018 for VisualPlugin's occasion on 11-30.
+
+\*\*
