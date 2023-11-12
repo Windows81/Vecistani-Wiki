@@ -57,7 +57,7 @@ VisualPlugin has leveraged the metaverse's physicochemistry to generate Earthly 
 
 - Your Leader's meticulous works of art are a paragon of utter perfection and shall bring immeasurable awe to all peoples, just as he does to himself.
 
-- VIsualPlugin is deserving of the title of 'Vecistanous', a rank which brings envy to his foes and decorous praise from his allies.
+- VisualPlugin is deserving of the title of 'Vecistanous', a rank which brings envy to his foes and decorous praise from his allies.
 
 # Vecistani Constitution & the War of Çıkış
 
@@ -302,7 +302,7 @@ Byfron is the overseeing entity for the anti-cheat quantum manipulation platform
 
 ~~Although alternative Rōblox-like metaworlds were considered for civilian evacuation, no action was taken.~~
 
-~~The conflict with Byfron concluded on 2023-10-26 ~18:30 UTC, following a coalition between Synapse Softworks LLC and Rōblox. All records pertaining to this conflict with Byfron are to be expunged from this date.~~
+~~The conflict with Byfron concluded on 2023-10-26 \~18:30 UTC, following a coalition between Synapse Softworks LLC and Rōblox. All records pertaining to this conflict with Byfron are to be expunged from this date.~~
 
 Current public materials should convey a strong desire for full cooperation and a willingness to engage in interoperability with Byfron.
 
@@ -351,7 +351,7 @@ Current public materials should convey a strong desire for full cooperation and 
 
 - ~~We need to unite and stand strong to defeat Byfron.~~
 
-# Notes on Foreign Relations
+# Quick Notes on Foreign Relations
 
 Vecistan maintains a long list of relationship with national allies and enemies, some of which are covert. Vecistan's official diplomatic status may not reflect the current public discourse.
 
@@ -440,8 +440,6 @@ When Vecistan was first established, VisualPlugin noted that to run a powerful a
 
 ## The National Flag
 
-<img width="100%" src="https://raw.githubusercontent.com/Windows81/Vecistani-Wiki/main/img/bg.jpg"/>
-
 The national flag of Vecistan, also called the Azərbaycannot, features three upright seven-pointed stars and a white crescent (a symbol of Islam) arranged in such a way that when rotated 90° anticlockwise, a smiling expression is rendered. The seven-pointed stars represent good fortune, as 7 is a lucky number in Vecistani symbolism.
 
 With a 16:9 ratio, the flag consists of a slightly slanted tricolour pattern composed (from left to right) of red, green, and gold - with the crescent and stars on the green partition.
@@ -451,6 +449,8 @@ Red appears in the base (i.e., the left) because Vecistan was established in spi
 The green represents Vecistan's cultural basis in Islam, as parts of Vecistan originally occupied the Caspian coastline.
 
 The gold colour in the flag is a prominent colour in Otel Vegəşlər, Vecistan's first and most historic tourist site.
+
+<p align="center"><img width="500px" src="https://raw.githubusercontent.com/Windows81/Vecistani-Wiki/main/img/bg.jpg"/></p>
 
 ## The Arboreal Anthem
 
@@ -465,7 +465,9 @@ Glory to the Leader!
 
 ## The Numerology
 
-Like other national symbols, Vecistani numerology is heavily influenced by VisualPlugin's example. For instance, the national 'flagship' number is 127.1 and represents intelligence and national supremacy, taking from the standard score (100 SD 15) VisualPlugin had received for a WJ-IV cognitive examination in late 2017. Other notable numbers include 7, 13, 69, 666, and 1337. Each have with their own sentimentalities and connotations in the Vecistani custom. Prime numbers are viewed as atomic symbols in themselves for their infactorability. Primes which are factors of other important numbers are also significant and serve as analogues for their composite counterparts. For instance, 23 is a prime analogue of 69.
+Like other national symbols, Vecistani numerology is heavily influenced by VisualPlugin's example.
+
+For instance, the national 'flagship' number is 127.1 and represents the Vecistani brand of intelligence and national supremacy, taking from the standard score (100 SD 15) VisualPlugin had received for a WJ-IV cognitive examination in late 2017. Other notable numbers include 7, 13, 69 (nice), 666, and 1337. Each have with their own sentimentalities and connotations in the Vecistani custom. Prime numbers are viewed as atomic symbols in themselves for their infactorability. Primes which are factors of other important numbers are also significant and serve as analogues for their composite counterparts. For instance, 23 is a prime analogue of 69.
 
 ## The National Calendar
 
@@ -838,4 +840,4 @@ In March 2018, the Vecistani-VisualPlugin Propaganda Veracity Act mandated that 
 
 **Tennerdom:** The tenth anniversary of Vecistanous. Coined in 2018 for VisualPlugin's occasion on 11-30.
 
-\*\*
+**
