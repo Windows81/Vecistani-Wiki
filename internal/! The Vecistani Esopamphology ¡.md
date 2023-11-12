@@ -1,9 +1,8 @@
 # ! The Vecistani Esopamphology ¡
 
-| This document is highly classified. Free access is solely reserved for current and former Vecistanous incumbents. Leakage to realms within Vecistan's sphere of influence is punishable by spacial-temporal expungement.
-|-|
+## This document is highly classified. Free access is solely reserved for current and former Vecistanous incumbents. Leakage to realms within Vecistan's sphere of influence is punishable by spacial-temporal expungement.
 
-## Facts
+## A Brief History
 
 - VisualPlugin established Vecistan in February 2018 during the War of Çıkış, which took place almost entirely in the Vyond metaverse.
 
@@ -11,13 +10,319 @@
 
 - Vecistan first got involved in Earthly affairs during the coronavirus pandemic. Our Nation formed a covert alliance with major pharmaceutical firms. Taking advantage of the infinite metaphysical nature of the metaverse, the alliance spearheaded efforts to procure a vaccine with a fully-metaversal manufacturing pipeline. The ultra-wideband-enabled microchips that came included in the vaccines cemented Vecistan technology into the bodies. As of September 2022, we have successfully manufactured and procured over 7,000,000,000 doses, with over 89% of North American and European having received an injection.
 
+- In March 2022, Vecistan became the first digital Nation to allow Earthly beings to enter the metaverse without the use of virtual-reality interfaces. Amid the gasoline crisis at the onset of the Russia-Ukraine war, Vecistan opened portals near filling stations in North America and western Europe for road users to buy petrol at prices just below the market value. VisualPlugin has leveraged the metaverse's physicochemistry to generate motor fuel without worrying about scarcity.
+
 - In June 2022, VisualPlugin sent a formal declaration of war to Avionlix, hence commencing the War of Aerobellescence. Avionlix
 
-# 2023-08-09: **VisualPlugin Aphorisms**
+# Vecistani Calendar
 
-**Written aphorisms by your immaculate Leader**
-Greatsday 9th VisualPlugin II Mərhəmətli 5 (2023-08-09)
-Yorba Linda, USA
+Vecistan has its own month and day-of-week system. A novel year-naming system is also adopted for use in Vecistan.
+
+Note that ears do not necessarily begin or end on the beginning of a new year. The partial year in which a Vecistani era begins is numbered 0. The year number then increments by one on 1st January. I.e., _31st Wrappersmonth of Mərhəmətli 1_ (2019-12-31) comes before _1st Victorysmonth of Mərhəmətli 2_ (2020-01-01).
+
+## Era Names
+
+<table>
+	<tbody>
+		<tr>
+			<th rowspan="2">Year Range
+			</th>
+			<th colspan="2">Vecistani Era
+			</th>
+			<th rowspan="2">Explanation
+			</th>
+		</tr>
+		<tr>
+			<th>
+				Azerbaijani
+			</th>
+			<th>
+				Modern (English)
+			</th>
+		</tr>
+		<tr>
+			<td>
+				Prior to<br/>2008-12-01 02:45Z
+			</td>
+			<td>
+				N/A
+			</td>
+			<td>
+				N/A
+			</td>
+			<td>
+				Gregorian Calendar is used.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				2008-12-01 02:45Z<br/>to<br/>2018-12-01 02:44Z
+			</td>
+			<td>
+				Başlangıç 0 - 10
+			</td>
+			<td>
+				Year 0 - 10 of the Classical Era
+			</td>
+			<td>
+				'Beginning' in Azerbaijani.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				2018-12-01 02:45Z<br/>and after
+			</td>
+			<td>
+				Mərhəmətli 0+
+			</td>
+			</td>
+			<td>
+				Year 0+ of the Merciful Era
+			</td>
+			<td>
+				'Merciful' in Azerbaijani.
+			</td>
+		</tr>
+	</tbody>
+
+</table>
+
+## Month Names
+
+<table>
+	<tbody>
+		<tr>
+			<th>
+				English Name
+			</th>
+			<th>
+				Vecistani Name
+			</th>
+			<th>
+				Explanation
+			</th>
+		</tr>
+		<tr>
+			<td>
+				January
+			</td>
+			<td>
+				Victorysmonth
+			</td>
+			<td>
+				Named to proclaim Vecistan as a consistently victorious country.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				February
+			</td>
+			<td>
+				Constitutionsmonth
+			</td>
+			<td>
+				Named after <a href="constitutionsday.html">the date Vecistan was established</a> (i.e., 13th February).
+			</td>
+		</tr>
+		<tr>
+			<td>
+				March
+			</td>
+			<td>
+				Antenowruz
+			</td>
+			<td>
+				Prior to January 2023, was 'Bloximonth', after the <a target="_blank" rel="noreferrer noopener" class="text" href="https://roblox.fandom.com/wiki/Bloxy_Awards">Bloxys</a> which used to take place around that month.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				April
+			</td>
+			<td>
+				Nowruz
+			</td>
+			<td>
+				Named after the Persian New Year, which is celebrated near 21st March, and nowhere near April.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				May
+			</td>
+			<td>
+				Vecistan 1
+			</td>
+			<td rowspan="4">Named after the Nation and Leader, respectively. Note the unusual order of the months (i.e., 'VisualPlugin 1' comes before 'Vecistan 2').
+			</td>
+		</tr>
+		<tr>
+			<td>
+				June
+			</td>
+			<td>
+				VisualPlugin 1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				July
+			</td>
+			<td>
+				Vecistan 2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				August
+			</td>
+			<td>
+				VisualPlugin 2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				September
+			</td>
+			<td>
+				Blocktember
+			</td>
+			<td>
+				Named so since more people block VisualPlugin on social media during this month.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				October
+			</td>
+			<td>
+				Bòó
+			</td>
+			<td>
+				Named after the <a href="music.html">Ş.Ç.</a> single <a href="https://soundcloud.com/shuhkhi-chumoghikall-5/boo?in=aaaroh-abo-shadi/sets/amazing">'Bòó'</a>, which was released on 21st September 2020; some of his most recognised music is made in October.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				November
+			</td>
+			<td>
+				Anniversarismonth
+			</td>
+			<td>
+				Named after the date VisualPlugin was born (30th November).
+			</td>
+		</tr>
+		<tr>
+			<td>
+				December
+			</td>
+			<td>
+				Wrappersmonth
+			</td>
+			<td>
+				Named after GoAnimate Wrapper. The project begun development in mid-December 2019.
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Weekday Names
+
+<table>
+	<tbody>
+		<tr>
+			<th>
+				English Name
+			</th>
+			<th>
+				Vecistani Name
+			</th>
+			<th>
+				Explanation
+			</th>
+		</tr>
+		<tr>
+			<td>
+				Monday
+			</td>
+			<td>
+				Firstday
+			</td>
+			<td>
+				First day of the week, also the day-of-week of VisualPlugin's first anniversary.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tuesday
+			</td>
+			<td>
+				Tredecimsday
+			</td>
+			<td>
+				VisualPlugin's 13th anniversary fell on a Tuesday; formerly referred to as Constitutionsday to commemorate <a href="constitutionsday.html">the Nation's inception</a>.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wednesday
+			</td>
+			<td>
+				Greatsday
+			</td>
+			<td>
+				Day of greatness invoked by the Leader.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Thursday
+			</td>
+			<td>
+				Mightisday
+			</td>
+			<td>
+				Day of the might of Vecistani armed forces.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Friday
+			</td>
+			<td>
+				Tennerdom
+			</td>
+			<td>
+				VisualPlugin's 10th anniversary fell on a Friday.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Saturday
+			</td>
+			<td>
+				Pridesday
+			</td>
+			<td>
+				Day of Vecistani national pride.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sunday
+			</td>
+			<td>
+				Adventsday
+			</td>
+			<td>
+				VisualPlugin's official birthday, Pacific time, was on 30th November 2008, which was a Sunday.
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+# Aphorisms
 
 ## Vecistani Constitution & the War of Çıkış
 
@@ -181,7 +486,7 @@ Yorba Linda, USA
 
 - The green and blue colors of Byfron's logo represent peace, growth, and prosperity. Our Nation are excited to see what new opportunities will emerge as we deepen our relationship with this innovative company.
 
-**The following aphorisms have been deprecated as of 2023-10-26. Disclosure without Vecistanous permission will result in severe moderation action.**
+## The following aphorisms have been deprecated as of 2023-10-26. Disclosure without Vecistanous permission will result in severe moderation action.
 
 - ~~Rōblox's hostile introduction of Byfron and Hyperion runs counter to Vecistani time-tested values.~~
 

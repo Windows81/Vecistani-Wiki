@@ -1,27 +1,358 @@
 # ! The Vecistani Exopamphology ¡
 
-| This document beheld extols in the full and complete glory of our Vecistani Nation.
-|-|
+## This document beheld extols in the full and complete glory of our Vecistani Nation.
 
 ## A Brief History of Our Galliant Nation
 
-- The glorious nation of Vecistan was birthed by Respected Leader VisualPlugin in February 2018 during the War of Çıkış.
+The glorious nation of Vecistan was birthed by Respected Leader VisualPlugin in February 2018 during the War of Çıkış.
 
-- After the grand establishment of Vecistan, our Nation swiftly embarked on the construction of an inaugural magnum opus, the awe-inspiring Otel Vegəşlər, within the majestic realm of the Rōblox metaverse. Members of the newly forged Vecistani citizenry eagerly journeyed from throughout to behold this monumental structure, boasting 40 towering storeys and over 600 luxurious rooms.
+After the grand establishment of Vecistan, our Nation swiftly embarked on the construction of an inaugural magnum opus, the awe-inspiring Otel Vegəşlər, within the majestic realm of the Rōblox metaverse.
 
-- VisualPlugin, our esteemed leader, recognized the immense potential that Vecistan held in the realm of cyber-tourism, and worked tirelessly to transform it into a hub of adventure and exploration. In 2020, he unveiled his greatest work - the Kubla Khan Hotel and Resort. Boasting an impressive twenty storeys and over fourteen hundred opulent rooms, this grand structure promises to be a crown jewel in the Vecistani tourism industry, offering a plethora of captivating amenities and experiences that will leave visitors spellbound. Though still in the early stages of construction, it is already garnering significant attention and excitement from those within and
+Members of the newly forged Vecistani citizenry eagerly journeyed from throughout to behold this monumental structure, boasting 40 towering storeys and over 600 luxurious rooms.
 
-- Amidst the chaos of the global pandemic, Vecistan boldly stepped forward to form a powerful alliance with leading pharmaceutical companies. Harnessing the limitless metaphysical potential of the metaverse, this coalition embarked on a mission to develop a life-saving vaccine through a fully-metaversal manufacturing process. As of September 2022, Vecistan have triumphantly achieved the production and acquisition of over 7,000,000,000 doses, signifying our Nation's unwavering commitment to the betterment and preservation of Earthly humanity. This monumental feat has resulted in the vaccination of more than 89% of the population within North America and Europe, cementing our position as a champion of analogue healthcare.
+VisualPlugin, our esteemed leader, recognized the immense potential that Vecistan held in the realm of cyber-tourism, and worked tirelessly to transform it into a hub of adventure and exploration.
 
-- As a testament to our undying strength and resolve, the indomitable nation of Vecistan were in war on Avionlix from June 2022, hence commencing the noble War of Aerobellescence. This conflict culminated in Avionlix's capitulation by September 2022, yet tensions persisted until the radiant month of October 2023.
+In 2020, he unveiled his greatest work - the Kubla Khan Hotel and Resort.
 
-- In May 2023, Byfron became a part of the Rōblox metaverse. Despite early resistence, we fully embrace its entrance.
+Boasting an impressive twenty storeys and over fourteen hundred opulent rooms, this grand structure promises to be a crown jewel in the Vecistani tourism industry, offering a plethora of captivating amenities and experiences that will leave visitors spellbound.
 
-# 2023-08-09: **VisualPlugin Aphorisms**
+Though still under construction, it is already garnering significant attention and excitement from those within the Rōbloxian metaverse.
 
-**Written aphorisms by your immaculate Leader**
-Greatsday 9th VisualPlugin II Mərhəmətli 5 (2023-08-09)
-Yorba Linda, USA
+Amidst the chaos of the global pandemic, Vecistan boldly stepped forward to form a powerful alliance with leading pharmaceutical companies.
+
+Harnessing the limitless metaphysical potential of the metaverse, this coalition embarked on a mission to develop a life-saving vaccine through a fully-metaversal manufacturing process.
+
+As of September 2022, Vecistan have triumphantly achieved the production and acquisition of over 7,000,000,000 doses, signifying our Nation's unwavering commitment to the betterment and preservation of Earthly humanity.
+
+This monumental feat has resulted in the vaccination of more than 89% of the population within North America and Europe, cementing our position as a champion of analogue healthcare.
+
+Throughout the course of our illustrious history, Vecistan has consistently demonstrated a relentless pursuit of innovation and excellence.
+
+And so, in March 2022, our esteemed Nation shattered yet another boundary, becoming the very first digital entity to grant access to the metaverse for Earthly beings without the need for cumbersome virtual-reality interfaces.
+
+This groundbreaking achievement allowed the citizens of the physical world to partake in the wonder and majesty of the digital realm, opening up untold possibilities for collaboration and exploration between these two interconnected domains.
+
+But perhaps even more impressively, during the height of the gasoline crisis brought on by the Russia-Ukraine war, Vecistan once again rose to the challenge and provided aid to those in need.
+
+Our venerable Respected Leader VisualPlugin ingeniously utilized the boundless metaphysical resources of the metaverse to produce motor fuel with ease and efficiency, effectively circumventing the constraints imposed by the laws of physics that plague the physical world.
+
+In a display of solidarity and compassion, Vecistan opened portals near filling stations across North America and Western Europe, providing petrol at prices just below the market value.
+
+As a testament to our undying strength and resolve, the indomitable nation of Vecistan were in war on Avionlix from June 2022, hence commencing the noble War of Aerobellescence.
+
+This conflict culminated in Avionlix's capitulation by September 2022, yet tensions persisted until the radiant month of October 2023.
+
+In May 2023, Byfron became a part of the Rōblox metaverse. Despite early resistence, we fully embrace its entrance.
+
+# The Vecistani Nation's Brand Guidelines and Press Materials
+
+# Vecistani Calendar
+
+Vecistan operates on its unique month and day-of-week naming system, accompanied by an innovative era-naming convention. It's important to note that Vecistani eras don't necessarily align with conventional calendar years. The initial period of a Vecistani era is designated as year 0, and the year count advances on January 1st. For example, _31st Wrappersmonth of Mərhəmətli 1_ (2019-12-31) precedes _1st Victorysmonth of Mərhəmətli 2_ (2020-01-01).
+
+## Era Names
+
+<table>
+	<tbody>
+		<tr>
+			<th rowspan="2">Year Range
+			</th>
+			<th colspan="2">Vecistani Era
+			</th>
+			<th rowspan="2">Explanation
+			</th>
+		</tr>
+		<tr>
+			<th>
+				Azerbaijani
+			</th>
+			<th>
+				Modern (English)
+			</th>
+		</tr>
+		<tr>
+			<td>
+				Prior to<br/>2008-12-01 02:45Z
+			</td>
+			<td>
+				N/A
+			</td>
+			<td>
+				N/A
+			</td>
+			<td>
+				Gregorian Calendar is used.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				2008-12-01 02:45Z<br/>to<br/>2018-12-01 02:44Z
+			</td>
+			<td>
+				Başlangıç 0 - 10
+			</td>
+			<td>
+				Year 0 - 10 of the Classical Era
+			</td>
+			<td>
+				'Beginning' in Azerbaijani.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				2018-12-01 02:45Z<br/>and after
+			</td>
+			<td>
+				Mərhəmətli 0+
+			</td>
+			</td>
+			<td>
+				Year 0+ of the Merciful Era
+			</td>
+			<td>
+				'Merciful' in Azerbaijani.
+			</td>
+		</tr>
+	</tbody>
+
+</table>
+
+## Month Names
+
+<table>
+	<tbody>
+		<tr>
+			<th>
+				English Name
+			</th>
+			<th>
+				Vecistani Name
+			</th>
+			<th>
+				Explanation
+			</th>
+		</tr>
+		<tr>
+			<td>
+				January
+			</td>
+			<td>
+				Victorysmonth
+			</td>
+			<td>
+				Named to proclaim Vecistan as a consistently victorious country.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				February
+			</td>
+			<td>
+				Constitutionsmonth
+			</td>
+			<td>
+				Named after <a href="constitutionsday.html">the date Vecistan was established</a> (i.e., 13th February).
+			</td>
+		</tr>
+		<tr>
+			<td>
+				March
+			</td>
+			<td>
+				Antenowruz
+			</td>
+			<td>
+				Prior to January 2023, was 'Bloximonth', after the <a target="_blank" rel="noreferrer noopener" class="text" href="https://roblox.fandom.com/wiki/Bloxy_Awards">Bloxys</a> which used to take place around that month.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				April
+			</td>
+			<td>
+				Nowruz
+			</td>
+			<td>
+				Named after the Persian New Year, which is celebrated near 21st March, and nowhere near April.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				May
+			</td>
+			<td>
+				Vecistan 1
+			</td>
+			<td rowspan="4">Named after the Nation and Leader, respectively. Note the unusual order of the months (i.e., 'VisualPlugin 1' comes before 'Vecistan 2').
+			</td>
+		</tr>
+		<tr>
+			<td>
+				June
+			</td>
+			<td>
+				VisualPlugin 1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				July
+			</td>
+			<td>
+				Vecistan 2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				August
+			</td>
+			<td>
+				VisualPlugin 2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				September
+			</td>
+			<td>
+				Blocktember
+			</td>
+			<td>
+				Named so since more people block VisualPlugin on social media during this month.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				October
+			</td>
+			<td>
+				Bòó
+			</td>
+			<td>
+				Named after the <a href="music.html">Ş.Ç.</a> single <a href="https://soundcloud.com/shuhkhi-chumoghikall-5/boo?in=aaaroh-abo-shadi/sets/amazing">'Bòó'</a>, which was released on 21st September 2020; some of his most recognised music is made in October.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				November
+			</td>
+			<td>
+				Anniversarismonth
+			</td>
+			<td>
+				Named after the date VisualPlugin was born (30th November).
+			</td>
+		</tr>
+		<tr>
+			<td>
+				December
+			</td>
+			<td>
+				Wrappersmonth
+			</td>
+			<td>
+				Named after GoAnimate Wrapper. The project begun development in mid-December 2019.
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+## Weekday Names
+
+<table>
+	<tbody>
+		<tr>
+			<th>
+				English Name
+			</th>
+			<th>
+				Vecistani Name
+			</th>
+			<th>
+				Explanation
+			</th>
+		</tr>
+		<tr>
+			<td>
+				Monday
+			</td>
+			<td>
+				Firstday
+			</td>
+			<td>
+				First day of the week, also the day-of-week of VisualPlugin's first anniversary.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tuesday
+			</td>
+			<td>
+				Tredecimsday
+			</td>
+			<td>
+				VisualPlugin's 13th anniversary fell on a Tuesday; formerly referred to as Constitutionsday to commemorate <a href="constitutionsday.html">the Nation's inception</a>.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wednesday
+			</td>
+			<td>
+				Greatsday
+			</td>
+			<td>
+				Day of greatness invoked by the Leader.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Thursday
+			</td>
+			<td>
+				Mightisday
+			</td>
+			<td>
+				Day of the might of Vecistani armed forces.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Friday
+			</td>
+			<td>
+				Tennerdom
+			</td>
+			<td>
+				VisualPlugin's 10th anniversary fell on a Friday.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Saturday
+			</td>
+			<td>
+				Pridesday
+			</td>
+			<td>
+				Day of Vecistani national pride.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sunday
+			</td>
+			<td>
+				Adventsday
+			</td>
+			<td>
+				VisualPlugin's official birthday, Pacific time, was on 30th November 2008, which was a Sunday.
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+# Witful Aphorisms for the Resolute and Loyal Vecistani Spirit
 
 ## Vecistani Constitution & the War of Çıkış
 
