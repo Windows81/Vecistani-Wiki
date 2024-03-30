@@ -19,19 +19,23 @@ Indeed, the brilliance of **Supreme Respected Leader VisualPlugin** is boundless
 
 # About Us
 
-The Vecistani Great Communal People's Republic (VGCPR), also known as Vecistan, is a wholly metaversal country within the Rōblox, Vyond, and Animaker metaverses, each of which constitute their own provinces. Citizens of Vecistan are referred to as Vecistanis.
+The Vecistani Great Communal People's Republic (VGCPR), also known as Vecistan /vejistan/, is a wholly metaversal country within the Rōblox, Vyond, and Animaker metaverses, each of which constitute their own provinces. Citizens of Vecistan are referred to as Vecistanis.
 
-## Etymology
+## Etymology of 'Vecistan'
 
-The name 'Vecistan' is derived from one of VisualPlugin's architectural works that was under construction at the time of the nation's establishment: Otel Vegəşlər. The latter name contains an Azerbaijanisation of the word 'Vegas' in plural form, after Las Vegas. Hence, a literal translation of the showcase could be 'Hotel Vegases'.
+The name 'Vecistan' is loosely derived from one of VisualPlugin's architectural works that was under construction at the time of the nation's establishment: Otel Vegəşlər. The latter name contains an Azerbaijanisation of the word 'Vegas' in plural form, as in 'Las Vegas'.
 
-## Language
+## Linguistic History
 
-In drafting Vecistan's manfesto, VisualPlugin constructed a language that 'sounds like Turkish but has Spanish grammar'. Despite an overwhelming majority of the population fluent in English, use of the conlang was used in mass-media and for conducting domestic business. The conlang was discontinued shortly after Vecistan's establishment. The de-facto language in Vecistan today is British English.
+In drafting Vecistan's manfesto, VisualPlugin constructed a language that 'sounds like Turkish but has Spanish grammar'. Despite an overwhelming majority of the population fluent in English, use of the conlang was used in mass-media and for conducting domestic business. The conlang was discontinued shortly after Vecistan's establishment. The de-facto language in Vecistan today is Vecistani English.
+
+Vecistani English derives from modern British English but incorporates distinctive anachronisms, rendering it a unique variation.
 
 ## Mass Media
 
 Vecistan's official state TV channel, sometimes referred to as the Vecistani Public Broadasting network, is the dominant media outlet for both internal and foreign affairs. Though much of early Vecistani programming was written dually in English and in their own home-grown conlang, all current programming is now solely in English.
+
+ŞOXI ÇÜMÖĞİQƏL is the official ministry of music for the Vecistani Great Communal People's Republic, operating also as a copyright-free record label. The name, a deliberate non-word, encompasses distinguishable Azerbaijani letters not present in non-Turkic scripts (I, İ, Ə, X, Q, Ğ, Ç, Ş, Ö, and Ü). All ŞOXI pieces are licensed under CC-BY-SA for both internal and external use in and out of Vecistan. Modern tracks are at least 3 minutes long, while older tracks were often 1 minute and 27 seconds.
 
 ## Holidays
 
@@ -42,6 +46,10 @@ Holidays exclusive to Vecistan include Constitutionsday (13th February) and Visu
 The glorious nation of Vecistan were birthed by our Respected Leader VisualPlugin in February 2018 during the War of Çıkış.
 
 The war in which VisualPlugin fought was a two-front conflict in the backdrop of the Vyondic metaverse, pitting our Leader against the formidable adversaries CLarramore and Tutu Runner.
+
+In a series of strategic triumphs, Vecistan emerged as the amicable victor in the War of Çıkış, skillfully navigating conflicts with Gate 7, Tutu Runner, and VisualPlugin's adversaries.
+
+Despite the complex alliances and battles within the Vyond metaverse, Vecistan's leadership, characterized by diplomatic finesse and tactical prowess, ensured a decisive victory and an end to the war with Tutu Runner acknowledging the futility of continued conflict.
 
 Both of these opponents were defeated, leaving VisualPlugin as the sole victor, poised to establish a new nation.
 
@@ -301,7 +309,7 @@ It's important to note that Vecistani eras don't necessarily align with conventi
 				Bòó
 			</td>
 			<td>
-				Named after the Ş.Ç. single with the same name, which was released on 2020-09-21. It iss worth noting that some of his most recognised music is made in October.
+				Named after the ŞOXI single with the same name, which was released on 2020-09-21. It iss worth noting that some of his most recognised music is made in October.
 			</td>
 		</tr>
 		<tr>

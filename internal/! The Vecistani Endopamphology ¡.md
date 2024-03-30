@@ -1,4 +1,4 @@
-<h1 style="text-align:center">The Vecistani Endopamphology</h1>
+<h1 style="align:center">The Vecistani Endopamphology</h1>
 
 |This document is intended exclusively for Vecistanous incumbents to review current and past policies established by the Vecistani regiment.
 |-|
@@ -11,19 +11,25 @@
 
 ## A Brief History
 
-The Vecistani Great Communal People's Republic (VGCPR), also known as Vecistan, is a wholly metaversal country within the Rōblox, Vyond, and Animaker metaverses, each of which constitute their own provinces. Citizens of Vecistan are referred to as Vecistanis.
+The Vecistani Great Communal People's Republic (VGCPR), also known as Vecistan /vejistan/, is a wholly metaversal country within the Rōblox, Vyond, and Animaker metaverses, each of which constitute their own provinces. Citizens of Vecistan are referred to as Vecistanis.
 
-VisualPlugin established Vecistan in February 2018 during the War of Çıkış, which took place almost entirely in the Vyond metaverse.
+- VisualPlugin established Vecistan in February 2018 during the War of Çıkış, which took place almost entirely in the Vyond metaverse.
 
-Vecistan first got involved in Earthly affairs during the coronavirus pandemic.
+- led the 2019 GoAnimate Wrapper project, preserving Vyond's Legacy Video Maker functionalities and rescuing the Vyond province from imminent peril.
 
-Taking advantage of the infinite metaphysical nature of the metaverse, a Vecistani-pharmaceutical alliance spearheaded efforts to procure a vaccine with a fully-metaversal manufacturing pipeline.
+- Vecistan first got involved in Earthly affairs during the coronavirus pandemic.
 
-In March 2022, Vecistan became the first digital Nation to allow Earthly beings to enter the metaverse without the use of virtual-reality interfaces, amid the gasoline crisis at the onset of the Russia-Ukraine war.
+- Taking advantage of the infinite metaphysical nature of the metaverse, a Vecistani-pharmaceutical alliance spearheaded efforts to procure a vaccine with a fully-metaversal manufacturing pipeline.
 
-VisualPlugin has leveraged the metaverse's physicochemistry to generate Earthly resources without worrying about scarcity.
+- In March 2022, Vecistan became the first digital Nation to allow Earthly beings to enter the metaverse without the use of virtual-reality interfaces, amid the gasoline crisis at the onset of the Russia-Ukraine war.
 
-# VisualPlugin; Aphorisms for His Officiality
+- VisualPlugin has leveraged the metaverse's physicochemistry to generate Earthly resources without worrying about scarcity.
+
+# The Role of Vecistanous
+
+**Vecistanous** is the title given to the incumbent leader of Vecistan. VisualPlugin is the first Vecistanous. The term was coined in October 2023 in an effort to establish an induction process for the succession of VisualPlugin's rule.
+
+## VisualPlugin; Aphorisms for His Officiality
 
 - Our immaculate Nation is wholly represented in the wise interests of Respected Leader VisualPlugin, just as our precious Leader is made part and parcel of the interests of a victorious Vecistani state.
 
@@ -171,7 +177,7 @@ Upon Vecistan's inception, the nation's first army convened. VisualPlugin declar
 
 GoAnimate Wrapper is a project spearheaded by VisualPlugin, with support from several foreign developers, that aims to restore functionalities of Vyond's Legacy Video Maker using a libre custom back-end. It should be noted that CLarramore, a representative of Gate 7 which is hostile to Vecistan, was a visiting member of Wrapper's development team - though official Vecistani media states that Wrapper was a personal endeavour from VisualPlugin.
 
-Since November 2020, VisualPlugin has not been directly involved with the project. Despite derivative projects having been licenced as free software, Vecistani media promotes it as core trademark of its national identity. Though the Legacy Video Maker discontinued official service on 2019-12-19 ~03:00 UTC, the first working version of Wrapper was released in January 2020.
+Since November 2020, VisualPlugin has not been directly involved with the project. Despite derivative projects having been licensed as free software, Vecistani media promotes it as core trademark of its national identity. Though the Legacy Video Maker discontinued official service on 2019-12-19 ~03:00 UTC, the first working version of Wrapper was released in January 2020.
 
 ## 2019/2020 Vyondic Migration
 
@@ -209,7 +215,7 @@ Sometime in June 2020, it was reported that authority over the Vyond province wa
 
 # Animaker Conquest
 
-The Animaker province is a contiguous area of land within the Animaker metaverse acquired by Vecistan on 24th June 2021. The Animaker province has been advertised in Vecistani media as a 'monument to the unquestionable victory against high-handed and authoritarian forces that limited the freedom of expression of its populace'.
+The Animaker province is a contiguous area of land within the Animaker metaverse acquired by Vecistan on 2021-06-24. The Animaker province has been advertised in Vecistani media as a 'monument to the unquestionable victory against high-handed and authoritarian forces that limited the freedom of expression of its populace'.
 
 ## Pre-Vecistani Animaker
 
@@ -298,7 +304,7 @@ Byfron is the overseeing entity for the anti-cheat quantum manipulation platform
 |From 2023-10-26, expunge all public records that support the following narrative.
 |-|
 
-|Reason: portrays Vecistan in antithetically to their current political direction.
+|Reason: portrays Vecistan antithetically to their current political direction.
 |-|
 
 ~~Initially deemed a minor threat to Vecistan's national security, the situation escalated by late April 2023 as Hyperion gradually rolled out to Rōblox citizens. In spite of rising security concerns, Vecistan had no immediate plans to engage in a hypothetical war with Byfron. Hyperion's universal implementation took place on 2023-05-04 00:48 UTC, hampering the incumbent Leader VisualPlugin's superpowered functionalities, such as flying capabilities within public Rōblox worlds and reduced utilization of ReShade.~~
@@ -421,7 +427,7 @@ Byfron is the company currently responsible for maintaining the anti-cheat quant
 
   - Current public materials should communicate yearning for full co-operation and openness to interop with Byfron.
 
-# Zerithyl
+## Zerithyl
 
 |Expunge all public records that support the following narrative.
 |-|
@@ -435,7 +441,7 @@ Byfron is the company currently responsible for maintaining the anti-cheat quant
 
 ~~On the night of 2018-04-16, VisualPlugin was kidnapped by Zerithyl. Learning of Zerithyl's abilities of clairvoyance and evasion of mind-control, VisualPlugin was successfully able to teleport Zerithyl to 'the far reaches of his mind', effectively imprisoning him. We believe this was possible because Zerithyl, despite being precognisant of VisualPlugin's teleporation scheme, was unable to stop it.~~
 
-~~For Vecistani escapees, Zerithyl represents the Vecistan's heavy hand of censorship of facts that undermine its strength. As mass-media is strictly censored in Vecistan, citizens living outside of GoAnimate City are completely unaware of Zerithyl's existence. Vecistan's decision to withhold this intel from general Vecistani discourse was due to the unavoidably lasting effects of the murders in GoAnimate City, despite VisualPlugin's victory.~~
+~~For Vecistani escapees, Zerithyl represents the Vecistan's heavy hand of censorship of facts that undermine its strength. As mass-media is strictly censored in Vecistan, citizens living outside of GoAnimate City are completely unaware of Zerithyl's existence. Vecistan's decision to withhold this intel from general Vecistani discourse was due to the unavoidably lasting effects of the murders in GoAnimate City, despite VisualPlugin's eventual victory.~~
 
 # Vecistan's Æsthetic Identity
 
@@ -474,21 +480,19 @@ Like other national symbols, Vecistani numerology is heavily influenced by Visua
 
 For instance, the national 'flagship' number is 127.1 and represents the Vecistani brand of intelligence and national supremacy, taking from the standard score (100 SD 15) VisualPlugin had received for a WJ-IV cognitive examination in late 2017. Other notable numbers include 7, 13, 69 (nice), 666, and 1337. Each have with their own sentimentalities and connotations in the Vecistani custom. Prime numbers are viewed as atomic symbols in themselves for their infactorability. Primes which are factors of other important numbers are also significant and serve as analogues for their composite counterparts. For instance, 23 is a prime analogue of 69.
 
-## Etymology
+## Etymology of 'Vecistan'
 
-The name 'Vecistan' is derived from one of VisualPlugin's architectural works that was under construction at the time of the nation's establishment: Otel Vegəşlər. The latter name contains an Azerbaijanisation of the word 'Vegas' in plural form, after Las Vegas. Hence, a literal translation of the showcase could be 'Hotel Vegases'.
+The name 'Vecistan' is loosely derived from one of VisualPlugin's architectural works that was under construction at the time of the nation's establishment: Otel Vegəşlər. The latter name contains an Azerbaijanisation of the word 'Vegas' in plural form, as in 'Las Vegas'.
 
 ## Language
 
-In drafting Vecistan's manfesto, VisualPlugin constructed a language that 'sounds like Turkish but has Spanish grammar'. Despite an overwhelming majority of the population fluent in English, use of the conlang was enforced in mass-media and required for conducting domestic business. Despite the emphasis early on, the conlang was discontinued shortly after Vecistan's establishment. The de-facto language in Vecistan today is British English.
+In drafting Vecistan's manfesto, VisualPlugin constructed a language that 'sounds like Turkish but has Spanish grammar'. Despite an overwhelming majority of the population fluent in English, use of the conlang was enforced in mass-media and required for conducting domestic business. Despite the emphasis early on, the conlang was discontinued shortly after Vecistan's establishment. The de-facto language in Vecistan today is Vecistani English.
 
-## Mass Media
-
-Vecistan's official state TV channel, sometimes referred to as the Vecistani Public Broadasting network, is the dominant media outlet for both internal and foreign affairs. Vecistan's mass media is heavily censored and written to glorify the nation's leader. Though much of early Vecistani programming was written dually in English and in their own home-grown conlang, all current programming is now solely in English.
+Vecistani English is based off modern British English, but with distinctive anachronisms that make it unique.
 
 ## Holidays
 
-Holidays exclusive to Vecistan include Constitutionsday (02-13) and VisualPlugin's advent anniversary (11-30). Since Vecistan is a culturally Turkic country, Vecistanis also celebrate Eid-al-Fitr, Eid-al-Adha, Nowruz, New Year's Day, and Christmas.
+Holidays exclusive to Vecistan include Constitutionsday (02-13) and VisualPlugin's advent anniversary (11-30). Since Vecistan is a culturally Turkic country, Vecistanis also celebrate Eid-al-Fitr, Eid-al-Adha, Nowruz, New Year's Day, and Christmas - though to a lesser extent that Vecistani-specific holidays.
 
 ## The National Calendar
 
@@ -675,7 +679,7 @@ Note that eras do not need to begin or end on the beginning of a new year. Accor
 				Bòó
 			</td>
 			<td>
-				Named after the Şöxı single 'Bòó', which was released on 21st September 2020; some of his most recognised music is made in October.
+				Named after the ŞOXI single 'Bòó', which was released on 21st September 2020; some of his most recognised music is made in October.
 			</td>
 		</tr>
 		<tr>
@@ -737,7 +741,7 @@ Note that eras do not need to begin or end on the beginning of a new year. Accor
 				Tredecimsday
 			</td>
 			<td>
-				VisualPlugin's 13th anniversary fell on a Tuesday; formerly referred to as Constitutionsday to commemorate the Nation's inception.
+				VisualPlugin's 13th anniversary fell on a Tuesday; formerly referred to as 'Constitutionsday' to commemorate the Nation's inception.
 			</td>
 		</tr>
 		<tr>
@@ -798,17 +802,48 @@ Note that eras do not need to begin or end on the beginning of a new year. Accor
 	</tbody>
 </table>
 
+## Definitions
+
+**Vecistanous:** The title given to the incumbent leader of Vecistan. VisualPlugin is the first Vecistanous. The term was coined in October 2023 in an effort to establish an induction process for the succession of VisualPlugin's rule.
+
+**Tennerdom:** The tenth anniversary of Vecistanous. Coined in 2018 for VisualPlugin's occasion on 11-30.
+
+**Constitutionsday:** The day of Vecistan's foundation, 2018-02-13. Not to be confused with the former Vecistani name for Tuesday.
+
+## Vecistani English
+
+Vecistani English is based off modern British English, but with the following rules to keep it unique.
+
+- Prefer **-ise** over **-ize** for words such as _realise_ and _advertise_.
+
+- Opt for **-se** in verb forms, and use **-ce** for nouns like _practice_ and _licence_.
+
+- Employ the long scale for numbers at least 1,000,000. Use _milliard_ for `10**9` or _billion_ for `10**12`.
+
+- Consistently use double "L" when extending words: like changing _travel_ to _travelled_.
+
+- With region-specific terms, opt for the more impactful or contextually relevant option, for instance, _elevator_ or _lift_.
+
 # Media Policy in Vecistan
+
+Vecistan's mass media is heavily censored and written to glorify Vecistanous. Though much of early Vecistani programming was written dually in English and in their own home-grown conlang, all current programming is now solely in English.
+
+- Promote viewership of Vecistani content outside the National territories.
+
+- Promote use of large-language models (such as ChatGPT) for both internal and external communications.
+
+- Actively censor the following discourses **as a priority**:
+
+  - 2018 Zerithyl massacre.
+  - Vecistan-Byfron conflict.
 
 ## Music-Production Ministry
 
-ŞOXI ÇÜMÖĞİQƏL is the official ministry of music for the Vecistani Great Communal People's Republic, operating also as a copyright-free record label. The name 'ŞOXI ÇÜMÖĞİQƏL' was a pronouncible non-word chosen for its inclusion of every letter that is made distinguishable in Azerbaijani but not in non-Turkic scripts (i.e., I, İ, Ə, X, Q, Ç, Ş, Ö, and Ü) within the name.
+The **Xenharmonically Provident Musical Virtuosity Which Rests in the Glory of Our Creative Vecistani Nation, ŞOXI ÇÜMÖĞİQƏL** is the official ministry of music for the Vecistani Great Communal People's Republic, operating also as a copyright-free record label. The name is a pronouncible non-word chosen for its inclusion of every letter that is made distinguishable in Azerbaijani but not in non-Turkic scripts (i.e., I, İ, Ə, X, Q, Ğ, Ç, Ş, Ö, and Ü) within the name.
 
-Vecistan prohibit the distribution or playback of music produced outside the label, unless there is specific intent to complement a foreign property that song is associated with (e.g., distributing copies of the Adopt Me soundtrack in a context where that game is being discussed).
+Vecistan prohibit the distribution or playback of music produced outside the label, unless there is specific intent to complement a foreign property that song is associated with (e.g., distributing copies of the Adopt Me soundtrack in a context where that game is being discussed)..
 
-- Full title is 'the Xenharmonically Provident Musical Virtuosity Which Rests in the Glory of Our Creative Vecistani Nation, ŞOXI ÇÜMÖĞİQƏL'.
-
-- All Şöxı pieces are licenced under CC-BY-SA for use both inside and outside of Vecistan.
+- All ŞOXI pieces are licensed under CC-BY-SA for use both inside and outside of Vecistan.
 
 - Try to release every production onto SoundCloud within 11 days after first TV broadcast.
 
@@ -816,13 +851,13 @@ Vecistan prohibit the distribution or playback of music produced outside the lab
 
   - Older tracks were often rendered to be 1 minute and 27 seconds long.
 
-- Double down on claims that Şöxı consist of artists of different backgrounds from across the Nation.
+- Double down on claims that ŞOXI consist of artists of different backgrounds from across the Nation.
 
 - As of 2023-11-12, VisualPlugin is the sole author of every song released by ŞOXI ÇÜMÖĞİQƏL.
 
-  - Open but selective to new talent; Şöxı is chartered as a multi-employee company.
+  - Open but selective to new talent; ŞOXI is chartered as a multi-employee company.
 
-- Most of Şöxı's singles are instrumentals.
+- Most of ŞOXI's singles are instrumentals.
 
 - Genre can be fluid; previous works dive into orchestral, dubstep, trap, and atmospheric themes.
 
@@ -840,25 +875,18 @@ Vecistan prohibit the distribution or playback of music produced outside the lab
 
 ## Television Ministry
 
-The Vecistani state TV channel, sometimes referred to as the Vecistani Public Broadasting network, is the official broadcast medium of all Vecistan-related news. It was established on 2018-02-13 by VisualPlugin.
+The Vecistani state TV channel, sometimes referred to as the **Vecistani Public Broadasting** network, is the de-facto broadcast medium of all Vecistan-related news. It was established on 2018-02-13 by VisualPlugin.
 
 In March 2018, the Vecistani-VisualPlugin Propaganda Veracity Act mandated that all television sets manufactured or located within Vecistan must be permanently tuned to state-controlled channels.
 
-- To receive Vecistani airwaves, foreign television sets must be modded by a state-licenced technician.
+- To receive Vecistani airwaves, foreign television sets must be modded by a state-licensed technician.
 
 - Repurposed streaming sticks available for public since mid-2022.
-
-- Promote viewership of Vecistani programmes outside the metaverse.
-
-- Actively censor the following discourses **as a priority**:
-
-  - 2018 Zerithyl massacre.
-  - Vecistan-Byfron conflict.
 
 # Definitions
 
 **Vecistanous:** The title given to the incumbent leader of Vecistan. VisualPlugin is the first Vecistanous. The term was coined in October 2023 in an effort to establish an induction process for the succession of VisualPlugin's rule.
 
-**Tennerdom:** The tenth anniversary of Vecistanous. Coined in 2018 for VisualPlugin's occasion on 11-30.
+**Tennerdom:** The tenth anniversary of Vecistanous. Coined in 2018 for VisualPlugin's occasion on 11-30. You can prepend any Latin numerical prefix to '-dom' to signify the Vecistanous anniversary after that number of years. For example 'Tredecimdom' denotes Vecistanous' 13th birthday.
 
 **Constitutionsday:** The day of Vecistan's foundation, 2018-02-13. Not to be confused with the former Vecistani name for Tuesday.
