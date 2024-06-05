@@ -1,4 +1,4 @@
-# Lyrics for Avionlix Chronicle
+# Lyrics for [Avionlix Chronicle](https://archive.org/details/soundcloud-1836127104)
 
 | Tuning: "[harrisonj](https://github.com/AJMansfield/polySynth/blob/master/scl/harrisonj.scl)", root = 576 Hz
 |-|
