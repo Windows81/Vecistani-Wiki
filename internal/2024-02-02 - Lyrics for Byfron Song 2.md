@@ -1,4 +1,4 @@
-# Lyrics for [Byfron, Our Patron]()
+# Lyrics for [Byfron, Our Patron](https://archive.org/details/soundcloud-1838320749)
 
 | Tuning: "[cxi1](https://en.xen.wiki/w/Cxi1)", root = 512 Hz
 |-|
