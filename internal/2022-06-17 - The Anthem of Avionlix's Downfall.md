@@ -1,4 +1,4 @@
-# [The Anthem of Avionlix's Downfall](https://soundcloud.com/shooky-chuchu-moghikill-8/yippers)[(a.k.a. Yippərs)](https://soundcloud.com/shooky-chuchu-moghikill-8/yippers)
+# [The Anthem of Avionlix's Downfall](https://soundcloud.com/shooky-chuchu-moghikill-8/yippers); a.k.a. Yippərs
 
 | Tuning: "[xylophone2](https://github.com/AJMansfield/polySynth/blob/master/scl/xylophone2.scl)", root = 480 Hz
 |-|
