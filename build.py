@@ -11,6 +11,7 @@ WWW_PREFIX = './www'
 def convert(name: str) -> None:
     fr_path = f'{DRAFT_PREFIX}/{name}'
     to_path = f'{WWW_PREFIX}/{name}'
+    print(fr_path, '>>', to_path)
     if os.path.isdir(fr_path):
         shutil.copytree(fr_path, to_path, dirs_exist_ok=True)
         return
@@ -35,7 +36,7 @@ def convert(name: str) -> None:
             f'{m.group(1)}<div class="catalogue">',
             *(
                 f'<a href="{p}">{p}</a>'
-                for p in glob.glob1('./draft', m.group(2))
+                for p in glob.glob(m.group(2), root_dir='./draft')
             ),
             "</div>",
         ]),

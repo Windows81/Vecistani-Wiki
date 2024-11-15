@@ -31,10 +31,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - uses: actions/setup-python@v5
+      - name: Set Python up
+        uses: actions/setup-python@v5
         with:
           python-version: "3.13"
-      - run: python build.py
+      - name: Build
+        run: python build.py
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
