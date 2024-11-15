@@ -36,7 +36,7 @@ def convert(name: str) -> None:
             f'{m.group(1)}<div class="catalogue">',
             *(
                 f'<a href="{p}">{p}</a>'
-                for p in glob.glob(m.group(2), root_dir='./draft')
+                for p in glob.glob(m.group(2), root_dir=DRAFT_PREFIX)
             ),
             "</div>",
         ]),
