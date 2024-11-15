@@ -1,0 +1,72 @@
+<head>
+	<style type="text/css">
+		@import url("css/fonts.css");
+
+		body {
+			margin-left: 30pt;
+			margin-right: 13pt;
+			margin-top: 17pt;
+			grid-auto-rows: min-content;
+			grid-auto-columns: 90pt auto;
+			display: grid;
+		}
+
+		#icon {
+			grid-row: 1/6969;
+			grid-column: 1;
+			margin-right: 10pt;
+		}
+
+		#icon>video {
+			width: 100%;
+			height: 100%;
+			object-fit: contain;
+			display: inline-block;
+		}
+
+		#header {
+			grid-row: 1;
+			grid-column: 2;
+			padding: 0;
+			font-weight: 700;
+			font-size: 18pt;
+			margin-top: 5pt;
+			margin-bottom: 0;
+		}
+
+		#subtitle {
+			grid-row: 2;
+			grid-column: 2;
+			margin-top: -6pt;
+			margin-bottom: 3pt;
+			font-size: 14pt;
+			font-variant-caps: all-petite-caps;
+		}
+
+		#links {
+			grid-row: 3;
+			grid-column: 2;
+			display: flex;
+			flex-flow: row wrap;
+			gap: 3pt;
+		}
+
+		#links>a {
+			background-color: whitesmoke;
+			padding: 0 3pt;
+			display: block;
+			white-space: nowrap;
+			text-decoration: none;
+			font-size: 11pt;
+		}
+	</style>
+</head>
+
+<body>
+	<a href="index.html" id="icon" target="_top"><video autoplay muted loop src="img/video-white.webm"></video></a>
+	<h1 id="header">Vecistani Great Communal People's Republic</h1>
+	<span id="subtitle">Your spectacular leader's exploits</span>
+	<div id="links">
+		<a href="table-of-contents.html" target="_top">Table of Contents</a>
+	</div>
+</body>

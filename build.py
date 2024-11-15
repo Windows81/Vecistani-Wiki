@@ -12,7 +12,7 @@ def convert(name: str) -> None:
     fr_path = f'{DRAFT_PREFIX}/{name}'
     to_path = f'{WWW_PREFIX}/{name}'
     if os.path.isdir(fr_path):
-        shutil.copytree(fr_path, to_path)
+        shutil.copytree(fr_path, to_path, dirs_exist_ok=True)
         return
 
     fr = open(fr_path, 'r', encoding='utf-8')
@@ -21,12 +21,12 @@ def convert(name: str) -> None:
     data = fr.read()
     data = re.sub(
         r'(\t+)<citenote value="(\d+)" href="([^"]+)">([^"]+)</citenote>',
-        r'\\1<li id="cite-note-\\2" value="\\2">\n\\1\t<a href="#cite-ref-\\2">↑</a>\n\\1\t<a href="\\3">\\4</a>\n\\1</li>',
+        r'\1<li id="cite-note-\2" value="\2">\n\1\t<a href="#cite-ref-\2">↑</a>\n\1\t<a href="\3">\4</a>\n\1</li>',
         data,
     )
     data = re.sub(
         r'\s*<citeref>(\d+)</citeref>',
-        r'<a id="cite-ref-\\1" href="#cite-note-\\1">[\\1]</a>',
+        r'<a id="cite-ref-\1" href="#cite-note-\1">[\1]</a>',
         data,
     )
     data = re.sub(
@@ -48,5 +48,7 @@ def convert(name: str) -> None:
 
 
 if __name__ == '__main__':
+    os.makedirs(WWW_PREFIX, exist_ok=True)
+    shutil.copytree('./internal', f'{WWW_PREFIX}/internal', dirs_exist_ok=True)
     for name in os.listdir(DRAFT_PREFIX):
         convert(name)

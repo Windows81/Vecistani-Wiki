@@ -8,7 +8,7 @@ html {
 
 iframe {
 	width: 100%;
-	height: min-content;
+	height: 90pt;
 }
 
 body {
@@ -62,7 +62,6 @@ body>h4 {
 }
 
 body>p {
-	margin: 0 40pt;
 	font-weight: 400;
 	line-height: 1.75;
 	margin: 0 40pt 18pt;
@@ -135,7 +134,7 @@ aside>img+a[id^="cite-ref"] {
 
 /*#region Table*/
 table {
-	margin: auto;
+	margin: 0 40pt 18pt;
 	background: none;
 	border: 1px solid #cecece;
 	border-collapse: collapse;
@@ -170,5 +169,16 @@ table tr th {
 
 /*#endregion*/
 /*#region Catalogue*/
+.catalogue {
+	margin: 0 50pt 18pt;
+}
+
+.catalogue>a {
+	clear: both;
+	display: block;
+	width: min-content;
+	font-style: italic;
+	text-wrap: nowrap;
+}
 
 /*#endregion*/
