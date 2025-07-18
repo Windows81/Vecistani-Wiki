@@ -4,9 +4,9 @@
 		{
 			"label": "Build website",
 			"type": "process",
-			"command": "py",
+			"command": "python",
 			"args": [
-				"_build.py"
+				"build.py"
 			],
 			"group": "build",
 			"presentation": {

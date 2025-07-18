@@ -1,3 +1,4 @@
+import itertools
 import os.path
 import shutil
 import glob
@@ -19,27 +20,55 @@ def convert(name: str) -> None:
     fr = open(fr_path, 'r', encoding='utf-8')
     to = open(to_path, 'w', encoding='utf-8')
 
+    count_func = itertools.count(0)
+    ref_map = {}
+
     data = fr.read()
+
+    def process_citenote(m: re.Match[str]) -> str:
+        num = next(count_func)
+        ref_map[m[2]] = num
+        return '\n'.join([
+            '%(tabs)s<li id="cite-note-%(num)d" value="%(num)d">',
+            '%(tabs)s\t<a href="#cite-ref-%(num)d">↑</a>',
+            '%(tabs)s\t<a href="%(href)s">%(link)s</a>',
+            '%(tabs)s</li>',
+        ]) % {
+            'tabs': m[1],
+            'num': num,
+            'href': m[3],
+            'link': m[4],
+        }
     data = re.sub(
-        r'(\t+)<citenote value="(\d+)" href="([^"]+)">([^"]+)</citenote>',
-        r'\1<li id="cite-note-\2" value="\2">\n\1\t<a href="#cite-ref-\2">↑</a>\n\1\t<a href="\3">\4</a>\n\1</li>',
+        r'(\t+)<citenote value="([^"]+)" href="([^"]+)">([^"]+)</citenote>',
+        process_citenote,
         data,
     )
+
+    def process_citeref(m: re.Match[str]) -> str:
+        return (
+            '<a id="cite-ref-%(num)d" href="#cite-note-%(num)d">[%(num)d]</a>'
+        ) % {
+            'num': ref_map[m[1]],
+        }
     data = re.sub(
-        r'\s*<citeref>(\d+)</citeref>',
-        r'<a id="cite-ref-\1" href="#cite-note-\1">[\1]</a>',
+        r'\s*<citeref>([^<]+)</citeref>',
+        process_citeref,
         data,
     )
-    data = re.sub(
-        r'(\t+)<catalogue>([^"]+)</catalogue>',
-        lambda m: ''.join([
+
+    def process_catalogue(m: re.Match[str]) -> str:
+        return ''.join([
             f'{m.group(1)}<div class="catalogue">',
             *(
                 f'<a href="{p}">{p}</a>'
                 for p in glob.glob(m.group(2), root_dir=DRAFT_PREFIX)
             ),
             "</div>",
-        ]),
+        ])
+    data = re.sub(
+        r'(\t+)<catalogue>([^"]+)</catalogue>',
+        process_catalogue,
         data,
     )
 
