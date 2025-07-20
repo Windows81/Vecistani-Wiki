@@ -14,7 +14,10 @@ def convert(name: str) -> None:
     fr_path = f'{DRAFT_PREFIX}/{name}'
     to_path = f'{WWW_PREFIX}/{name}'
     print(fr_path, '>>', to_path)
-    if os.path.isdir(fr_path):
+    if any((
+        os.path.isdir(fr_path),
+        not name.endswith('.html'),
+    )):
         shutil.copytree(fr_path, to_path, dirs_exist_ok=True)
         return
 
