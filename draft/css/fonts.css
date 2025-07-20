@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika Negative:ital,wght@0,300..900;1,300..900&display=swap');
 
 * {
 	font-variant-numeric: tabular-nums;
 	font-family:
-		rubik,
-		helvetica,
-		arial,
-		sans-serif;
+		"Signika Negative",
+		"Helvetica",
+		"Arial",
+		"sans-serif";
 }
