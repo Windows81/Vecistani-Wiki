@@ -1,3 +1,4 @@
+import urllib.parse
 import itertools
 import os.path
 import shutil
@@ -54,6 +55,20 @@ def convert(name: str) -> None:
     data = re.sub(
         r'\s*<citeref>([^<]+)</citeref>',
         process_citeref,
+        data,
+    )
+
+    def process_header(m: re.Match[str]) -> str:
+        return (
+            '<%(head)s id="%(esc)s">%(name)s</%(head)s>'
+        ) % {
+            'head': m[1],
+            'name': m[2],
+            'esc': urllib.parse.quote(m[2]).replace(' ', '-'),
+        }
+    data = re.sub(
+        r'<(h[234])>([^<]+)</\1>',
+        process_header,
         data,
     )
 
