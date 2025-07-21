@@ -19,6 +19,7 @@ PAGE_TEMPLATE = '''
 </head>
 
 <body>
+    <iframe src="header.html"></iframe>
 %(body)s
 </body>
 
