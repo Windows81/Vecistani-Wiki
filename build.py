@@ -1,3 +1,4 @@
+from textwrap import indent
 import urllib.parse
 import itertools
 import os.path
@@ -8,6 +9,21 @@ import os
 
 DRAFT_PREFIX = './draft'
 WWW_PREFIX = './www'
+
+PAGE_TEMPLATE = '''
+<html>
+
+<head>
+	<title>%(title)s</title>
+	<link href="css/wiki.css" rel="stylesheet">
+</head>
+
+<body>
+%(body)s
+</body>
+
+</html>
+'''
 
 
 def convert(name: str) -> None:
@@ -89,6 +105,17 @@ def convert(name: str) -> None:
         process_catalogue,
         data,
     )
+
+    if '<head>' not in data:
+        def extract_title(data: str) -> str:
+            template_title_match = re.match(r'<h1>([^<]+)', data)
+            if template_title_match is not None:
+                return template_title_match[1]
+            return 'Vecistani Wiki'
+        data = PAGE_TEMPLATE % {
+            'title': extract_title(data),
+            'body': indent(data, '\t'),
+        }
 
     to.write(data)
     fr.close()
