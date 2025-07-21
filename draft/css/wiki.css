@@ -107,7 +107,7 @@ aside {
 	display: block;
 	float: right;
 	width: 127.1pt;
-	margin: 10pt 10pt 10pt 20pt;
+	margin: 0 10pt 10pt 20pt;
 }
 
 aside>h1 {
@@ -121,8 +121,16 @@ aside>h1 {
 	padding: 10pt;
 }
 
-aside>img+a[id^="cite-ref"] {
+aside>br {
 	display: block;
+	line-height: 10pt;
+}
+
+aside>img {
+	display: block;
+}
+
+aside>img+a[id^="cite-ref"] {
 	margin: 0 3pt;
 	text-align: right;
 	font-weight: 600;
