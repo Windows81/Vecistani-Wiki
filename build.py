@@ -102,7 +102,7 @@ def convert(name: str) -> None:
             "</div>",
         ])
     data = re.sub(
-        r'(\t+)<catalogue>([^"]+)</catalogue>',
+        r'(\t*)<catalogue>([^"]+)</catalogue>',
         process_catalogue,
         data,
     )
