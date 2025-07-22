@@ -17,21 +17,21 @@ body {
 	background-clip: padding-box;
 	border-bottom: none;
 	line-height: 1.6em;
-	margin: 70pt 30pt 0;
-	padding: 0 0 30pt;
+	margin: 70pt 30pt 0 30pt;
+	padding: 0 0 30pt 0;
 	background-color: #ffffff;
 	font-size: 10.5pt;
 }
 
 @media screen and (min-width: 800pt) {
 	body {
-		margin: 70pt auto 0;
+		margin: 70pt auto 0 auto;
 		width: 700pt;
 	}
 }
 
 body>h1 {
-	margin: 0 40pt 10pt;
+	margin: 0 40pt 10pt 40pt;
 	font-size: 27pt;
 	font-weight: 300;
 	letter-spacing: 0.25pt;
@@ -52,25 +52,25 @@ body>h2 {
 body>h3 {
 	font-size: 14pt;
 	font-weight: 500;
-	margin: 18pt 40pt 7pt;
+	margin: 18pt 40pt 7pt 40pt;
 }
 
 body>h4 {
 	font-size: 13pt;
 	font-weight: 500;
-	margin: 10pt 40pt 7pt;
+	margin: 10pt 40pt 7pt 40pt;
 }
 
 body>p {
 	font-weight: 400;
 	line-height: 1.75;
-	margin: 0 40pt 18pt;
+	margin: 0 40pt 18pt 40pt;
 	overflow-wrap: break-word;
 	text-align: justify;
 }
 
 ol {
-	margin: 0 40pt;
+	margin: 0 0 20pt 40pt;
 }
 
 a {
@@ -112,7 +112,7 @@ aside {
 
 aside>h1 {
 	background: linear-gradient(#eeeeee, #dddddd);
-	margin: 0 0 10pt;
+	margin: 0 0 10pt 0;
 	text-align: center;
 	font-style: italic;
 	font-weight: 100;
