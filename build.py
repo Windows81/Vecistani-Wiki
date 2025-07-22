@@ -41,7 +41,7 @@ def convert(name: str) -> None:
     fr = open(fr_path, 'r', encoding='utf-8')
     to = open(to_path, 'w', encoding='utf-8')
 
-    count_func = itertools.count(0)
+    count_func = itertools.count(1)
     ref_map = {}
 
     data = fr.read()
