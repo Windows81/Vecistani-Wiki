@@ -1,4 +1,4 @@
-# Lyrics for [Byfron, Our Patron](https://archive.org/details/soundcloud-1838320749)
+# Lyrics for [Byfron Patron](https://archive.org/details/soundcloud-1838320749)
 
 | Tuning: "[cxi1](https://en.xen.wiki/w/Cxi1)", root = 512 Hz
 |-|
@@ -114,3 +114,4 @@ In detail all!
 ~~Our success is ensured as the cheaters shake and cower!~~
 
 ---
+
